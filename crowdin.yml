@@ -1,3 +1,7 @@
 files:
-  - source: /sources/en/*
-    translation: /translated/%two_letters_code%%file_extension%
+  - source: /sources/en.json
+    translation: /translated/language/%two_letters_code%%file_extension%
+  - source: /source/*.csv
+    translation: /translated/other/%language%/%original_file_name%%file_extension%
+  - source: /source/*txt
+    translation: /translated/other/%language%/%original_file_name%%file_extension%
