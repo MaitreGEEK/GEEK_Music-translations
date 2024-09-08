@@ -1,5 +1,5 @@
 files:
-  - source: /sources/en.json
+  - source: /sources/*.json
     translation: /translated/language/%two_letters_code%%file_extension%
   - source: /source/*.csv
     translation: /translated/other/%language%/%original_file_name%%file_extension%
