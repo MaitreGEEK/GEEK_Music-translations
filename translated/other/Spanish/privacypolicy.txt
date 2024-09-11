@@ -1,3 +1,3 @@
-Privacy Policy
+Política de privacidad
 
-All collected data is used for order execution and is not stored in the long term, only during the time of music playback, to maintain the proper functioning of the software. If you find that the stated data collection does not suit you in any way, we encourage you not to use the bot, as it is not functional without the presence of this data.
+Todos los datos recogidos se utilizan para la ejecución de la orden y no se almacenan a largo plazo sólo durante el tiempo de reproducción de música, para mantener el correcto funcionamiento del software. Si encuentras que la recopilación de datos indicada no te conviene en modo alguno le animamos a no utilizar el bot, ya que no es funcional sin la presencia de estos datos.
