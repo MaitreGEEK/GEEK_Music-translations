@@ -1,59 +1,59 @@
-Terms Of Service
+Conditions Générales d'Utilisation
 
-1. About Us
+1. À propos de nous
 
-We are self-proclaimed developers and independent artists, enjoying Discord and wanting to contribute to its history.
+Nous sommes des développeurs et artistes indépendants autoproclamés, appréciant Discord et souhaitant contribuer à son histoire.
 
-2. Preamble
+2. Préambule
 
-We invite Users to carefully read these General Terms of Use (ToS). The use of the software/bot implies acceptance of these conditions. The product's features are indicated on the website. It is the user's responsibility to take them into account.
+Nous invitons les Utilisateurs à lire attentivement les présentes Conditions Générales d'Utilisation (CGU). L'utilisation du logiciel/bot implique l'acceptation de ces conditions. Les caractéristiques du produit sont indiquées sur le Site Internet. Il est de la responsabilité de l'utilisateur d'en tenir compte.
 
-In the event of subsequent changes to the ToS, the Client is subject to the version in force at the time of use.
+En cas de modification ultérieure des CGU, le Client est soumis à la version en vigueur lors de son utilisation.
 
-3. Definition
+3. Définition
 
-"Users": includes all individuals using the software/bot.
+"Utilisateurs" : regroupe toutes les personnes faisant usage du logiciel/bot.
 
-"Software/bot": refers in this context to "GEEK Music," which is the application allowing interaction between users and the features of the same software.
+"Logiciel/bot" : désigne dans ce cadre "GEEK Music", qui est l'application permettant l'audit entre les utilisateurs et les fonctionnalités du même logiciel.
 
-"Site": refers to the present site linked to the bot "http://geekmusic.eu."
+"Site" : désigne le présent site lié au bot "http://geekmusic.eu".
 
-"Description": Discord has a profile system; it contains below the user or software name a section commonly called "about me," which will primarily be used here for basic information.
+"Description" : Discord possède un système de profils, ce dernier contient en dessous du nom de l'utilisateur ou du logiciel une partie communément appelée « à propos de moi » qui servira ici principalement pour les informations basiques.
 
-4. Payment Related
+4. Paiement relatif
 
-The bot currently does not have any paid system or require any invoicing. However, it has a link to Patreon on its site. This is reserved for anyone wanting to help through this site and is considered a donation to the creators. ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
+Le bot ne contient à ce jour aucun système payant ni demandant une quelconque facturation, mais possède sur son site un lien vers le Patreon. Cependant, il a un lien vers Patreon sur son site. Ce dernier est réservé à quiconque voulant aider par l'intermédiaire de ce site, et est considéré comme un don envers les créateurs. ("Toute association peut, sans autorisation spéciale, recevoir des dons manuels.") Les possibles problèmes et modalités liées au paiement et autre se gèrent avec le site en question, et nous ne sommes en aucun cas responsables et ne pouvons être tenus responsables.
 
 5. Modifications
 
-We reserve the right to modify the Site, ToS, and all donation rates.
+Nous nous réservons le droit de modifier le Site, les CGU ainsi que tous les tarifs de don.
 
-When using the bot, the User is subject to the stipulations stated in the current ToS.
+Lors de l'utilisation du bot, l'Utilisateur est soumis aux stipulations énoncées par les CGU en vigueur.
 
-6. Processing and Sharing of Personal Data
+6. Traitement et partage des données personnelles
 
-No registration is required on the related site or bot. On the contrary, to use the software's features, the User must have a Discord account, where no information is recorded by us. Only the words written during a command are kept in memory for the duration of the command's execution. No information is therefore resold or stored in the long term in any way.
+Aucun enregistrement n'est nécessaire sur le site relatif ou le bot. À contrario, pour pouvoir utiliser des fonctionnalités du logiciel, l'Utilisateur devra être muni d'un compte Discord, sur lequel aucune information n'est enregistrée par nous. Seuls les mots écrits lors d'une commande sont conservés en mémoire le temps de l'exécution de la commande. Aucune information n'est donc revendue ni stockée sur le long terme d'une quelconque manière.
 
-7. Data Protection
+7. Protection des données
 
-As a Discord user, the User's data is protected by Discord. If the user encounters any problems with their personal data within Discord, they are requested to turn to Discord themselves as we are not responsible and can act in no way other than redirecting them to Discord support.
+L'Utilisateur étant un utilisateur Discord, ses données sont protégées par Discord. Si l'utilisateur rencontre des problèmes avec ses données personnelles au sein de Discord, il est prié de se tourner vers Discord eux-mêmes car nous ne sommes pas responsables et nous ne pouvons agir d'aucune manière si ce n'est que de les rediriger vers le support Discord.
 
-8. Intellectual Property
+8. Propriété intellectuelle
 
-The brand, logo, and graphic charter added over that present on Discord of this site and bot are intellectual works protected under copyright, exclusively owned by us. Any dissemination, exploitation, representation, reproduction, whether partial or complete, without our prior authorization will expose the infringer to possible civil and criminal proceedings.
+La marque, le logo, et la charte graphique ajoutée par-dessus celle présente sur Discord du présent site et bot, sont des œuvres de l'esprit protégées au titre du droit d'auteur, dont la propriété nous revient exclusivement. Toute diffusion, exploitation, représentation, reproduction, qu'elle soit partielle ou intégrale, sans notre autorisation préalable exposera le contrevenant à des poursuites civiles et pénales.
 
-9. Jurisdiction Clause
+9. Clause attributive de compétence
 
-The law governing the ToS is French law. Any dispute that may arise between the Company and a User during the execution of these will be subject to an attempt at amicable resolution if possible.
+La loi régissant les CGU est la loi française. Tout litige pouvant survenir entre la Société et un Utilisateur lors de l'exécution des présentes fera l'objet d'une tentative de résolution à l'amiable si possible.
 
-10. Responsibility
+10. Responsabilité
 
-If a user encounters a problem with the use or any other area related to us, they can turn to our support for help. However, we are not responsible for the unavailability, whether partial or total, of the bot if the reason for this is a problem related to the hosting of the present bot. Although we will try to resolve the issue as quickly as possible for your comfort.
+Si un utilisateur rencontre un problème avec l'utilisation ou tout autre domaine qui nous est relatif, il peut se tourner vers notre support pour demander de l'aide. Nous ne sommes cependant pas responsables de l'indisponibilité, qu'elle soit partielle ou totale, du bot si le motif de ce dernier est un problème lié à l'hébergement du présent bot. Bien que nous essaierons de résoudre le problème au plus vite pour votre confort.
 
-11. Acceptance of General Terms of Use
+11. Acceptation des conditions générales d'utilisation
 
-We consider that anyone using the software is aware of the aforementioned ToS and adheres to them when using the bot.
+Nous considérons que toute personne utilisant le logiciel est au courant des précédentes énoncées CGU et en tient rigueur lors de l'utilisation du bot.
 
-12. Third-party Contact Information
+12. Informations de contact de tierce partie
 
-The link to the Discord server for any issues and support related to the bot will be in the bot's description. The pseudonyms of the individuals to contact in case of support, complaint, and/or suggestion are also in the bot's description along with the link to the aforementioned site.
+Le lien du serveur Discord pour tout problème et support relatif au bot sera dans la description dudit bot. Les pseudonymes des personnes à aller contacter en cas de besoin de support, réclamation et/ou suggestion, sont également dans la description du bot ainsi que le lien vers le site énoncé ci-dessus.
