@@ -1,3 +1,3 @@
-Privacy Policy
+プライバシーポリシー
 
-All collected data is used for order execution and is not stored in the long term, only during the time of music playback, to maintain the proper functioning of the software. If you find that the stated data collection does not suit you in any way, we encourage you not to use the bot, as it is not functional without the presence of this data.
+収集されたすべてのデータは注文の実行に使用され、長期的には保存されません。 音楽再生の時だけソフトウェアの適切な機能を維持するために 記載されているデータ収集がいかなる方法でもあなたに合っていないことがわかった場合 このデータがなければ機能しないので、ボットを使用しないでください。 If you find that the stated data collection does not suit you in any way, we encourage you not to use the bot, as it is not functional without the presence of this data.
