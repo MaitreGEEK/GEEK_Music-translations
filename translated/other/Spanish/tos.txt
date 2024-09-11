@@ -22,7 +22,7 @@ En caso de cambios posteriores a los TdS, el Cliente está sujeto a la versión 
 
 4. Pago relacionado
 
-El bot actualmente no tiene ningún sistema de pago o requiere ninguna facturación. Sin embargo, tiene un enlace a Patreon en su sitio. Esto está reservado para cualquier persona que desee ayudar a través de este sitio y se considera una donación a los creadores. ("Toda asociación puede, sin autorización especial, recibir donaciones manuales. ) Posibles problemas y términos relacionados con el pago y otros son administrados con el sitio correspondiente, y no somos responsables en modo alguno y no podemos responsabilizarnos.
+El bot actualmente no tiene ningún sistema de pago o requiere ninguna facturación. Sin embargo, tiene un enlace a Patreon en su sitio. Esto está reservado para cualquier persona que desee ayudar a través de este sitio y se considera una donación a los creadores. ) Posibles problemas y términos relacionados con el pago y otros son administrados con el sitio correspondiente, y no somos responsables en modo alguno y no podemos responsabilizarnos.
 
 5. Modificaciones
 

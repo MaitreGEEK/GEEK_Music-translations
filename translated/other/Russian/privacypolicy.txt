@@ -1,3 +1,3 @@
-Privacy Policy
+Политика конфиденциальности
 
-All collected data is used for order execution and is not stored in the long term, only during the time of music playback, to maintain the proper functioning of the software. If you find that the stated data collection does not suit you in any way, we encourage you not to use the bot, as it is not functional without the presence of this data.
+Все собранные данные используются для выполнения заказа и не хранятся в долгосрочной перспективе, а только во время воспроизведения музыки, для поддержания правильного функционирования программного обеспечения. Если Вы считаете, что указанные данные для сбора Вам не подходят, мы рекомендуем Вам не пользоваться ботом, так как без наличия этих данных он не сможет функционировать.
