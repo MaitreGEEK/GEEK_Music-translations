@@ -36,7 +36,7 @@ No registration is required on the related site or bot. On the contrary, to use 
 
 7. データ保護
 
-Discordユーザーとして、ユーザーのデータはDiscordによって保護されています。 Discord内で個人データに問題が発生した場合 責任を負うことはなく、Discordのサポートにリダイレクトする以外に行動することはできませんので、彼らはDiscord自身に頼まれています。 ユーザーが使用または当社に関連するその他の領域に問題が発生した場合、ユーザーは当社のサポートに頼ることができます。 ただし、当社は、一部または合計にかかわらず、入手不能について責任を負いません。 この理由が現在のボットのホスティングに関連する問題であれば 私たちはあなたの快適さのためにできるだけ早く問題を解決しようとします。
+Discordユーザーとして、ユーザーのデータはDiscordによって保護されています。 Discord内で個人データに問題が発生した場合 責任を負うことはなく、Discordのサポートにリダイレクトする以外に行動することはできませんので、彼らはDiscord自身に頼まれています。 ユーザーが使用または当社に関連するその他の領域に問題が発生した場合、ユーザーは当社のサポートに頼ることができます。 ただし、当社は、一部または合計にかかわらず、入手不能について責任を負いません。 この理由が現在のボットのホスティングに関連する問題であれば 私たちはあなたの快適さのためにできるだけ早く問題を解決しようとします。 ToSを規定する法律はフランスの法律です。 当社とユーザーとの間でこれらの実行中に発生する可能性のある紛争は、可能であれば友好的な解決を試みることになります。 Any dispute that may arise between the Company and a User during the execution of these will be subject to an attempt at amicable resolution if possible.
 
 8. 知的財産権
 
@@ -56,4 +56,4 @@ If a user encounters a problem with the use or any other area related to us, the
 
 12. 第三者の連絡先情報
 
-ボットに関する問題やサポートに関するDiscordサーバーへのリンクは、ボットの説明に記載されています。 サポートの場合に連絡する個人の仮名, 苦情, 上記のサイトへのリンクとともに、ボットの説明にも提案が含まれています。 The pseudonyms of the individuals to contact in case of support, complaint, and/or suggestion are also in the bot's description along with the link to the aforementioned site.
+ボットに関する問題やサポートに関するDiscordサーバーへのリンクは、ボットの説明に記載されています。 サポートの場合に連絡する個人の仮名, 苦情, 上記のサイトへのリンクとともに、ボットの説明にも提案が含まれています。 The pseudonyms of the individuals to contact in case of support, complaint, and/or suggestion are also in the bot's description along with the link to the aforementioned site. The pseudonyms of the individuals to contact in case of support, complaint, and/or suggestion are also in the bot's description along with the link to the aforementioned site.
