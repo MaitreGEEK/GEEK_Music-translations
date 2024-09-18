@@ -6,7 +6,7 @@
 
 2. プリアンブル
 
-We invite Users to carefully read these General Terms of Use (ToS). The use of the software/bot implies acceptance of these conditions. The product's features are indicated on the website. It is the user's responsibility to take them into account.
+ユーザーの皆様に、これらの一般利用規約（ToS）を慎重にお読みいただくことをお勧めします。 ソフトウェア／ボットの使用は、これらの条件の受諾を意味します。 製品の機能は、当社のウェブサイトに記載されています。 それを考慮することはユーザーの責任です。
 
 その後の Tos への変更があった場合、クライアントは使用時に有効なバージョンの対象となります。
 
@@ -22,7 +22,7 @@ We invite Users to carefully read these General Terms of Use (ToS). The use of t
 
 4. お支払い関連
 
-The bot currently does not have any paid system or require any invoicing. However, it has a link to Patreon on its site. This is reserved for anyone wanting to help through this site and is considered a donation to the creators. ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
+現在、ボットにはいかなる有料の壁や請求書の要求はありません。 ただし、サイトにPatreonへのリンクがあります。 これはこのサイトを通じて支援したい方のために用意されており、クリエイターへの寄付と見なされます。 ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
 
 5. 変更
 
