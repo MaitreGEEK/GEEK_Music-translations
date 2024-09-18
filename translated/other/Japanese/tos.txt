@@ -4,7 +4,7 @@
 
 私たちは自称開発者であり、独立したアーティストでもあり、Discordを楽しみ、その歴史に貢献したいと考えています。
 
-2. プリアンブル
+2. 前文
 
 ユーザーの皆様に、これらの一般利用規約（ToS）を慎重にお読みいただくことをお勧めします。 ソフトウェア／ボットの使用は、これらの条件の受諾を意味します。 製品の機能は、当社のウェブサイトに記載されています。 それを考慮することはユーザーの責任です。
 
@@ -14,15 +14,15 @@
 
 「ユーザー」:ソフトウェア/ボットを使用しているすべての個人が含まれます。
 
-「ソフトウェア/ボット」とは、この文脈において、ユーザー間の相互作用と同じソフトウェアの機能を可能にするアプリケーションである「GEEKミュージック」を指します。
+「ソフトウェア/ボット/アプリ」とは、この文脈において、ユーザー間の相互作用と同じソフトウェアの機能を可能にするアプリケーションである「GEEKミュージック」を指します。
 
-"Site": "http://geekmusic.eu" にリンクされている現在のサイトを指します。
+「サイト」: 「http://geekmusic.eu」 にリンクされている現在のサイトを指します。
 
-"Description": Discordにはプロフィールシステムがあります; ユーザー名またはソフトウェア名の下に、一般的に"about me"と呼ばれるセクションが含まれており、基本的な情報のために主にここで使用されます。
+"説明": Discordにはプロフィールシステムがあります; ユーザー名またはソフトウェア名の下に、一般的に"about me"と呼ばれるセクションが含まれており、基本的な情報のために主にここで使用されます。
 
 4. お支払い関連
 
-現在、ボットにはいかなる有料の壁や請求書の要求はありません。 ただし、サイトにPatreonへのリンクがあります。 これはこのサイトを通じて支援したい方のために用意されており、クリエイターへの寄付と見なされます。 ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
+現在、ボットにはいかなる有料の壁や請求書の要求はありません。 ただし、サイトにPatreonへのリンクがあります。 これはこのサイトを通じて支援したい方のために用意されており、クリエイターへの寄付と見なされます。 「いかなる団体も、特別な承認なしに手動での寄付を受け取ることができます。」支払いに関する問題や条件は寄付代理人によって管理されており、私たちは一切責任を負わず、責任を問われることはありません。
 
 5. 変更
 
@@ -32,23 +32,23 @@
 
 6. 個人データの処理と共有
 
-No registration is required on the related site or bot. On the contrary, to use the software's features, the User must have a Discord account, where no information is recorded by us. Only the words written during a command are kept in memory for the duration of the command's execution. No information is therefore resold or stored in the long term in any way.
+当社のサイトやボットにアクセスするために、登録は必要ありません。 ソフトウェアの機能を使用するには、ユーザーはDiscordアカウントを持っている必要があり、そこから私たちが記録する個人情報はありません。 コマンドの実行中に入力された言葉のみが、その実行期間中にメモリに保持されます。 したがって、個人を特定できる情報は、いかなる形でも販売されたり、長期的に保存されたりすることはありません。
 
 7. データ保護
 
-Discordユーザーとして、ユーザーのデータはDiscordによって保護されています。 Discord内で個人データに問題が発生した場合 責任を負うことはなく、Discordのサポートにリダイレクトする以外に行動することはできませんので、彼らはDiscord自身に頼まれています。 ユーザーが使用または当社に関連するその他の領域に問題が発生した場合、ユーザーは当社のサポートに頼ることができます。 ただし、当社は、一部または合計にかかわらず、入手不能について責任を負いません。 この理由が現在のボットのホスティングに関連する問題であれば 私たちはあなたの快適さのためにできるだけ早く問題を解決しようとします。 ToSを規定する法律はフランスの法律です。 当社とユーザーとの間でこれらの実行中に発生する可能性のある紛争は、可能であれば友好的な解決を試みることになります。 Any dispute that may arise between the Company and a User during the execution of these will be subject to an attempt at amicable resolution if possible.
+Discordのユーザーとして、あなたの個人データはDiscordによって管理されています。 ユーザーがDiscord内の個人データに関して問題に直面した場合、彼らはDiscordに直接連絡するようお願いします。私たちはその責任を負わず、Discordサポートに誘導する以外に何もできません。
 
 8. 知的財産権
 
-このサイトのDiscord上に追加されたブランド、ロゴ、グラフィックチャーターは、著作権の下で保護された知的作品です。 我々が所有しています 私たちの事前の許可なしに、部分的または完了した場合であっても、いかなる播種、搾取、表現、複製は、侵害者を可能性のある民事および刑事訴訟にさらす。 Any dissemination, exploitation, representation, reproduction, whether partial or complete, without our prior authorization will expose the infringer to possible civil and criminal proceedings.
+このサイトおよびボットにおいてDiscord上に存在するものに加えて追加されたブランド、ロゴ、およびグラフィックチャーターは、著作権で保護された知的財産であり、私たちが独占的に所有しています。 当社の事前承認なしに、いかなる配布、利用、表現、再生産（部分的または完全を問わず）も、侵害者を民事および刑事訴訟の可能性にさらすことになります。
 
 9. 管轄条項について
 
-ToSを規定する法律はフランスの法律です。 当社とユーザーとの間でこれらの実行中に発生する可能性のある紛争は、可能であれば友好的な解決を試みることになります。 Any dispute that may arise between the Company and a User during the execution of these will be subject to an attempt at amicable resolution if possible.
+ToSを規定する法律はフランスの法律です。 これらの実行中に会社とユーザーの間に生じる可能性のあるいかなる紛争も、可能であれば友好的な解決を試みることになります。
 
 10. 責任
 
-If a user encounters a problem with the use or any other area related to us, they can turn to our support for help. However, we are not responsible for the unavailability, whether partial or total, of the bot if the reason for this is a problem related to the hosting of the present bot. Although we will try to resolve the issue as quickly as possible for your comfort.
+ユーザーが使用やアプリに関連するその他の問題に直面した場合、私たちのサポートに助けを求めることができます。 ただし、現在のボットのホスティングに関連する問題が原因でボットが部分的または完全に利用できない場合、私たちはその責任を負いません。 ただし、皆様の快適さのために、この問題をできるだけ早く解決するよう努めます。
 
 11. 一般利用規約の承認
 
@@ -56,4 +56,4 @@ If a user encounters a problem with the use or any other area related to us, the
 
 12. 第三者の連絡先情報
 
-ボットに関する問題やサポートに関するDiscordサーバーへのリンクは、ボットの説明に記載されています。 サポートの場合に連絡する個人の仮名, 苦情, 上記のサイトへのリンクとともに、ボットの説明にも提案が含まれています。 The pseudonyms of the individuals to contact in case of support, complaint, and/or suggestion are also in the bot's description along with the link to the aforementioned site. The pseudonyms of the individuals to contact in case of support, complaint, and/or suggestion are also in the bot's description along with the link to the aforementioned site.
+ボットに関する問題やサポートに関するDiscordサーバーへのリンクは、ボットの説明に記載されています。 サポートの場合に連絡する個人の仮名, 苦情, 上記のサイトへのリンクとともに、ボットの説明にも提案が含まれています。 The pseudonyms of the individuals to contact in case of support, complaint, and/or suggestion are also in the bot's description along with the link to the aforementioned site. サポート、苦情、または提案の場合に連絡する個人の偽名は、当社のサイトへのリンクとともにボットの説明に記載されています。
