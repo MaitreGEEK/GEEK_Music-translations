@@ -1,3 +1,3 @@
 隱私權政策
 
-All collected data is used for order execution and is not stored in the long term, only during the time of music playback, to maintain the proper functioning of the software. If you find that the stated data collection does not suit you in any way, we encourage you not to use the bot, as it is not functional without the presence of this data.
+本軟體不會長期保存所蒐集的資料，且僅將其用於執行命令，以確保播放音樂期間的軟體功能可正常運作。 如仍對資料蒐集與運用有所疑慮，煩請避免使用本機器人。
