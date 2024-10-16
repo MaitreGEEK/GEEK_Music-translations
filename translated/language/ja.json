@@ -174,6 +174,8 @@
     "playlist-show": "show",
     "playlist": "playlist",
     "playlistPlay": "プレイリストを再生",
+    "playlist-name": "name",
+    "playlist-nameDescription": "The name of the playlist",
     "contactUs": "エラーだと思う場合は、[サポートサーバー](https://discord.gg/R89GmN3cGG)でご連絡ください！",
     "back": "戻る",
     "next": "次へ",
@@ -291,5 +293,7 @@
     "musicProfile": "音楽プロフィール",
     "songErrorSkippedWithName": "{song}の読み込み中にエラーが発生したため、スキップされました。",
     "footer": "host by: now-heberg.com and m336_",
-    "creditsTxt": "List of all contributors to this project is available [here]({link})"
+    "creditsTxt": "List of all contributors to this project is available [here]({link})",
+    "apiDown": "The bot's API seems to be down, please retry later. \nIf this issue persists contact us",
+    "requestFailed": "Request to the bot's API failed, please retry later. \nIf this issue persists contact us"
 }
