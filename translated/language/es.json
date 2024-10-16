@@ -1,5 +1,5 @@
 {
-    "helpDescription": "Returns a list of usable commands with the bot",
+    "helpDescription": "",
     "clickToInviteMe": "¡Haz clic aquí para invitarme!",
     "useSlashCommands": "Usar comandos de barra:",
     "inviteDescription": "Returns the bot's invite link",
