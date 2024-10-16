@@ -174,8 +174,8 @@
     "playlist-show": "montrer",
     "playlist": "playlist",
     "playlistPlay": "Jouer la playlist",
-    "playlist-name": "name",
-    "playlist-nameDescription": "The name of the playlist",
+    "playlist-name": "nom",
+    "playlist-nameDescription": "Le nom de la playlist",
     "contactUs": "Si vous pensez que c'est une erreur, contactez-nous sur [notre serveur de support](https://discord.gg/R89GmN3cGG)",
     "back": "Précédent",
     "next": "Suivant",
@@ -294,6 +294,6 @@
     "songErrorSkippedWithName": "Une erreur s'est produite lors du chargement de {song}, elle a donc été passée",
     "footer": "hébergé par : now-heberg.com et m336_",
     "creditsTxt": "La liste de tous les contributeurs est disponible [ici]({link})",
-    "apiDown": "The bot's API seems to be down, please retry later. \nIf this issue persists contact us",
-    "requestFailed": "Request to the bot's API failed, please retry later. \nIf this issue persists contact us"
+    "apiDown": "L'API du bot semble être en panne, veuillez réessayer plus tard. \nSi ce problème persiste, contactez-nous",
+    "requestFailed": "La requête à l'API du bot a échoué, veuillez réessayer plus tard. \nSi ce problème persiste, contactez-nous"
 }
