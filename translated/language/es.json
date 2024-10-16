@@ -166,7 +166,7 @@
     "playlistDeleteText": "You deleted your playlist {playlistName}",
     "playlist-showDescription": "Mostrar una lista",
     "playlistInvalidCommand": "This playlist command doesn't exist",
-    "playlist-add": "",
+    "playlist-add": "add",
     "playlist-move": "move",
     "playlist-play": "play",
     "playlist-remove": "remove",
