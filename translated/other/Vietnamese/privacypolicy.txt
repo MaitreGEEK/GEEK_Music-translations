@@ -1,3 +1,3 @@
-Chính sách Bảo mật
+Chính Sách Quyền Riêng Tư
 
-Những dữ liệu từ người dùng sẽ được dùng với mục đích thực hiện các câu lệnh và không được lưu trữ dài hạn mà chỉ lưu trữ trong khoảng thời gian phát lại nhạc, duy trùy hoạt động của ứng dụng. If you find that the stated data collection does not suit you in any way, we encourage you not to use the bot, as it is not functional without the presence of this data.
+Những dữ liệu từ người dùng sẽ được dùng với mục đích thực hiện các câu lệnh và không được lưu trữ dài hạn mà chỉ lưu trữ trong khoảng thời gian phát lại nhạc, duy trùy hoạt động của ứng dụng. Nếu bạn cảm thấy việc thu thập giữ liệu không phù hợp với bạn thì bạn có thể không sử dụng bot này, bởi bot sẽ không thể hoạt động khi không có những dữ liệu cần thiết.
