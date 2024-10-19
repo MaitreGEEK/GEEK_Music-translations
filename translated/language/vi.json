@@ -78,7 +78,7 @@
     "nowplayingDescription": "Display now playing song",
     "nowplayingText": "Hiện đang phát",
     "nowplayingPresent": "Hiện đang phát:",
-    "requestedBy": "",
+    "requestedBy": "Yêu cầu bởi: {user}",
     "live": "Trực tuyến",
     "timeRemaining": "Thời gian còn lại:",
     "pauseDescription": "Tạm dừng bài nhạc hiện tại",
