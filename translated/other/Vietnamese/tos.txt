@@ -1,12 +1,12 @@
-Điều Khoản Dịch Vụ
+Điều Khoản Dịch Vụ (ToS)
 
 1. Giới thiệu về Chúng tôi
 
-We are self-proclaimed developers and independent artists, enjoying Discord and wanting to contribute to its history.
+Chúng tôi tự nhận là những nhà phát triển và là những nhà sáng tạo độc lập, thích nền tảng Discord và mong muốn cống hiến cho nền tảng này.
 
-2. Preamble
+2. Lời nói đầu
 
-We invite Users to carefully read these General Terms of Use (ToS). The use of the software/bot implies acceptance of these conditions. The product's features are indicated on the website. It is the user's responsibility to take them into account.
+Chúng tôi mong muốn những Những dùng đọc tổng quan Điều Khoang Sử Dụng (ToS) một cách cẩn thận. Việc sử dụng nền tảng/bot đồng nghĩa phải chấp nhận những điều khoản này. Các tính năng của sản phẩm được hiển thị ngay trong trang chủ của sản phẩm. Người dùng phải có trách nhiệm lưu ý đến những điều này.
 
 In the event of subsequent changes to the ToS, the Client is subject to the version in force at the time of use.
 
