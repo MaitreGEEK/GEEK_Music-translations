@@ -8,21 +8,21 @@ Chúng tôi tự nhận là những nhà phát triển và là những nhà sán
 
 Chúng tôi mong muốn những Những dùng đọc tổng quan Điều Khoang Sử Dụng (ToS) một cách cẩn thận. Việc sử dụng nền tảng/bot đồng nghĩa phải chấp nhận những điều khoản này. Các tính năng của sản phẩm được hiển thị ngay trong trang chủ của sản phẩm. Người dùng phải có trách nhiệm lưu ý đến những điều này.
 
-In the event of subsequent changes to the ToS, the Client is subject to the version in force at the time of use.
+Trong những trường hợp có sự thay đổi về Điều Khoản Sử Dụng, người dùng phải phiên bản có hiệu lực tại lúc sử dụng.
 
-3. Definition
+3. Định nghĩa
 
-"Users": includes all individuals using the software/bot.
+"Người sử dụng": Bao gồm những cá nhân sử dụng nền tảng/bot.
 
-"Software/bot": refers in this context to "GEEK Music," which is the application allowing interaction between users and the features of the same software.
+"Nền tảng/bot": Ám chỉ đến "GEEK Music", là một ứng dụng cho phép tương tác giữa người sử dụng và những tính năng có trong phần mềm.
 
-"Site": refers to the present site linked to the bot "http://geekmusic.eu."
+"Địa chỉ": Ám chỉ đến địa chỉ liên kết của bot là "http://geekmusic.eu."
 
-"Description": Discord has a profile system; it contains below the user or software name a section commonly called "about me," which will primarily be used here for basic information.
+"Miêu tả": Discord có một hệ thống hồ sơ; nó nằm ở phía dưới tên của người dùng hoặc dưới tên của nền tảng trong mục "giới thiệu về tôi", thường sẽ được sử dụng như là những thông tin cơ bản.
 
-4. Payment Related
+4. Thanh toán
 
-The bot currently does not have any paid system or require any invoicing. However, it has a link to Patreon on its site. This is reserved for anyone wanting to help through this site and is considered a donation to the creators. ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
+Bot hiện không sử dụng bất kỳ phương thức thanh toán nào hay yêu cầu bất kỳ hóa đơn. Tuy nhiên chúng tôi có đường dẫn đến trang Patreon ngày tại trang chủ. This is reserved for anyone wanting to help through this site and is considered a donation to the creators. ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
 
 5. Modifications
 
