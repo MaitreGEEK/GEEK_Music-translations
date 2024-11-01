@@ -157,10 +157,10 @@
     "playlistInvalidCommand": "Cette commande n'existe pas",
     "playlistPlay": "Jouer la playlist",
     "playlist-nameDescription": "Le nom de la playlist",
-    "playlist-renameDescription": "Rename a playlist to a new name",
-    "playlist-newnameDescription": "The new name you want for the playlist",
-    "playlist-listDescription": "Get a list of all your playlists",
-    "noPlaylists": "There's no playlists here!",
+    "playlist-renameDescription": "Renommer une playlist avec un nouveau nom",
+    "playlist-newnameDescription": "Le nouveau nom que vous voulez pour la playlist",
+    "playlist-listDescription": "Obtenir une liste de toutes vos playlists",
+    "noPlaylists": "Il n'y a pas de playlists ici !",
     "contactUs": "Si vous pensez que c'est une erreur, contactez-nous sur [notre serveur de support](https://discord.gg/R89GmN3cGG)",
     "back": "Précédent",
     "next": "Suivant",
@@ -243,8 +243,8 @@
     "creditsTxt": "La liste de tous les contributeurs est disponible [ici]({link})",
     "apiDown": "L'API du bot semble être en panne, veuillez réessayer plus tard. \nSi ce problème persiste, contactez-nous",
     "requestFailed": "La requête à l'API du bot a échoué, veuillez réessayer plus tard. \nSi ce problème persiste, contactez-nous",
-    "supportOurFundraiser": "💖 **Help Keep GEEK Music Alive!** 💖\nWe're launching a special GoFundMe campaign to support upgrades for GEEK Music! As the bot grows in popularity, our servers need a boost to keep up with demand and ensure the best experience for everyone. 💻⚙️❤️\n[Click here to support us!](https://gofund.me/03af140f)",
-    "invalidNewName": "Please type a valid new name for your playlist",
-    "playlistRenameText": "Successfully renamed your playlist to {playlistName}!",
-    "numberSongs": "{number} songs"
+    "supportOurFundraiser": "💖 **Aidez à garder GEEK Music en vie !** 💖\nNous lançons une campagne spéciale GoFundMe pour soutenir les coûts d'une upgrade des serveurs pour GEEK Music! A cause du fait que le bot gagne en popularité, nos serveurs ont besoin d'un coup de boost pour répondre à la demande et assurer la meilleure expérience pour tout le monde. 💻⚙️❤️\n[Cliquez ici pour nous soutenir !](https://gofund.me/03af140f)",
+    "invalidNewName": "Veuillez saisir un nouveau nom valide pour votre playlist",
+    "playlistRenameText": "Votre playlist a été renommée avec succès en {playlistName} !",
+    "numberSongs": "{number} pistes"
 }
