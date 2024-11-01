@@ -176,6 +176,13 @@
     "playlistPlay": "Reproducir lista",
     "playlist-name": "name",
     "playlist-nameDescription": "The name of the playlist",
+    "playlist-rename": "rename",
+    "playlist-renameDescription": "Rename a playlist to a new name",
+    "playlist-newname": "newname",
+    "playlist-newnameDescription": "The new name you want for the playlist",
+    "playlist-list": "list",
+    "playlist-listDescription": "Get a list of all your playlists",
+    "noPlaylists": "There's no playlists here!",
     "contactUs": "Si crees que se trata de un error, contáctanos en [nuestro servidor de soporte](https://discord.gg/R89GmN3cGG)",
     "back": "Atrás",
     "next": "Siguiente",
@@ -296,5 +303,8 @@
     "creditsTxt": "List of all contributors to this project is available [here]({link})",
     "apiDown": "The bot's API seems to be down, please retry later. \nIf this issue persists contact us",
     "requestFailed": "Request to the bot's API failed, please retry later. \nIf this issue persists contact us",
-    "supportOurFundraiser": "💖 **Help Keep GEEK Music Alive!** 💖\nWe're launching a special GoFundMe campaign to support upgrades for GEEK Music! As the bot grows in popularity, our servers need a boost to keep up with demand and ensure the best experience for everyone. 💻⚙️❤️\n[Click here to support us!](https://gofund.me/03af140f)"
+    "supportOurFundraiser": "💖 **Help Keep GEEK Music Alive!** 💖\nWe're launching a special GoFundMe campaign to support upgrades for GEEK Music! As the bot grows in popularity, our servers need a boost to keep up with demand and ensure the best experience for everyone. 💻⚙️❤️\n[Click here to support us!](https://gofund.me/03af140f)",
+    "invalidNewName": "Please type a valid new name for your playlist",
+    "playlistRenameText": "Successfully renamed your playlist to {playlistName}!",
+    "numberSongs": "{number} songs"
 }
