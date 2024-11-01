@@ -295,5 +295,6 @@
     "footer": "hébergé par : now-heberg.com et m336_",
     "creditsTxt": "La liste de tous les contributeurs est disponible [ici]({link})",
     "apiDown": "L'API du bot semble être en panne, veuillez réessayer plus tard. \nSi ce problème persiste, contactez-nous",
-    "requestFailed": "La requête à l'API du bot a échoué, veuillez réessayer plus tard. \nSi ce problème persiste, contactez-nous"
+    "requestFailed": "La requête à l'API du bot a échoué, veuillez réessayer plus tard. \nSi ce problème persiste, contactez-nous",
+    "supportOurFundraiser": "💖 **Help Keep GEEK Music Alive!** 💖\nWe're launching a special GoFundMe campaign to support upgrades for GEEK Music! As the bot grows in popularity, our servers need a boost to keep up with demand and ensure the best experience for everyone. 💻⚙️❤️\n[Click here to support us!](https://gofund.me/03af140f)"
 }
