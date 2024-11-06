@@ -6,7 +6,7 @@ Chúng tôi tự nhận là những nhà phát triển và là những nhà sán
 
 2. Lời nói đầu
 
-Chúng tôi mong muốn những Những dùng đọc tổng quan Điều Khoang Sử Dụng (ToS) một cách cẩn thận. Việc sử dụng nền tảng/bot đồng nghĩa phải chấp nhận những điều khoản này. Các tính năng của sản phẩm được hiển thị ngay trong trang chủ của sản phẩm. Người dùng phải có trách nhiệm lưu ý đến những điều này.
+Chúng tôi mong muốn những Những dùng đọc tổng quan Điều Khoang Sử Dụng (và ToS) một cách cẩn thận. Việc sử dụng nền tảng/bot đồng nghĩa phải chấp nhận những điều khoản này. Các tính năng của sản phẩm được hiển thị ngay trong trang chủ của sản phẩm. Người dùng phải có trách nhiệm lưu ý đến những điều này.
 
 Trong những trường hợp có sự thay đổi về Điều Khoản Sử Dụng, người dùng phải phiên bản có hiệu lực tại lúc sử dụng.
 
@@ -18,11 +18,11 @@ Trong những trường hợp có sự thay đổi về Điều Khoản Sử D�
 
 "Địa chỉ": Ám chỉ đến địa chỉ liên kết của bot là "http://geekmusic.eu."
 
-"Miêu tả": Discord có một hệ thống hồ sơ; nó nằm ở phía dưới tên của người dùng hoặc dưới tên của nền tảng trong mục "giới thiệu về tôi", thường sẽ được sử dụng như là những thông tin cơ bản.
+"Miêu tả": Discord có một hệ thống hồ sơ; nó nằm ở phía dưới tên của người dùng Discord hoặc dưới tên của nền tảng/bot trong mục "giới thiệu về tôi", thường sẽ được sử dụng như là những thông tin cơ bản.
 
 4. Thanh toán
 
-Bot hiện không sử dụng bất kỳ phương thức thanh toán nào hay yêu cầu bất kỳ hóa đơn. Tuy nhiên chúng tôi có đường dẫn đến trang Patreon ngày tại trang chủ. This is reserved for anyone wanting to help through this site and is considered a donation to the creators. ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
+Bot hiện không sử dụng bất kỳ phương thức thanh toán nào hay yêu cầu bất kỳ hóa đơn. Tuy nhiên chúng tôi có đường dẫn đến trang Patreon ngay tại trang chủ. Điều này giúp mọi người có thể chung tay ủng hộ cho trang chủ và những người sáng tạo. ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
 
 5. Modifications
 
