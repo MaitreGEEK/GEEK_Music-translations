@@ -10,7 +10,7 @@
     "pongDescription": "Retorna o tempo de resposta do bot",
     "pongText": "from `m336_`'s servers, it's probably his fault if it's slow af",
     "profileDescription": "Returns various informations such as your total listening time using the bot",
-    "profileText": "{user}'s profile",
+    "profileText": "Perfil de {user}",
     "leaderboardPosition": "Leaderboard position: **#{user_position}** ",
     "listeningTime": "Tempo de reprodução:",
     "dayAbbr": "{day}d",
