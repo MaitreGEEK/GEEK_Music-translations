@@ -246,5 +246,6 @@
     "supportOurFundraiser": "💖 **Help Keep GEEK Music Alive!** 💖\nWe're launching a special GoFundMe campaign to support upgrades for GEEK Music! As the bot grows in popularity, our servers need a boost to keep up with demand and ensure the best experience for everyone. 💻⚙️❤️\n[Click here to support us!](https://gofund.me/03af140f)",
     "invalidNewName": "Please type a valid new name for your playlist",
     "playlistRenameText": "Successfully renamed your playlist to {playlistName}!",
-    "numberSongs": "{number} songs"
+    "numberSongs": "{number} songs",
+    "customInstance": "### 🎉 NEW CUSTOM INSTANCE TIERS AVAILABLE! 🎉\n🚀 **Tired of lag?** Get your own **dedicated GEEK Music bot** with ultra-fast responses, custom branding, and premium performance!\n\n**💎 Starting at just $3/month! 💎**\nSatisfied or your money back ;]\n\n✨ **Contact maitregeek** by dm or send a **/ticket** to get started!"
 }
