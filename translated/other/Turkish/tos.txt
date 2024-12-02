@@ -1,16 +1,16 @@
-Terms Of Service
+Hizmet Şartları
 
-1. About Us
+1. Hakkımızda
 
-We are self-proclaimed developers and independent artists, enjoying Discord and wanting to contribute to its history.
+Biz, kendini geliştirici ilan etmiş ve bağımsız sanatçılar olarak, Discord'dan keyif alıyor ve onun tarihine katkıda bulunmak istiyoruz.
 
-2. Preamble
+2. Önsöz
 
 We invite Users to carefully read these General Terms of Use (ToS). The use of the software/bot implies acceptance of these conditions. The product's features are indicated on the website. It is the user's responsibility to take them into account.
 
 In the event of subsequent changes to the ToS, the Client is subject to the version in force at the time of use.
 
-3. Definition
+3. Tanımlamalar
 
 "Users": includes all individuals using the software/bot.
 
@@ -46,7 +46,7 @@ The brand, logo, and graphic charter added over that present on Discord of this 
 
 The law governing the ToS is French law. Any dispute that may arise between the Company and a User during the execution of these will be subject to an attempt at amicable resolution if possible.
 
-10. Responsibility
+10. Sorumluluk
 
 If a user encounters a problem with the use or any other area related to us, they can turn to our support for help. However, we are not responsible for the unavailability, whether partial or total, of the bot if the reason for this is a problem related to the hosting of the present bot. Although we will try to resolve the issue as quickly as possible for your comfort.
 
