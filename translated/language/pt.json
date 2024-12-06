@@ -1,6 +1,6 @@
 {
-    "helpDescription": "Returns a list of usable commands with the bot",
-    "clickToInviteMe": "Click here to invite me!",
+    "helpDescription": "Retorna uma lista de comandos utilizáveis com o bot",
+    "clickToInviteMe": "Clique aqui para me enviar!",
     "useSlashCommands": "Use Slash Commands:",
     "inviteDescription": "Returns the bot's invite link",
     "loveUsingOurBot": "Você gostou do GEEK Music? [Add it]({invite}) para o seu própio sever!",
