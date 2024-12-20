@@ -233,8 +233,6 @@
     "queueSkipWithoutSong2": "{song1} の再生が終了しました。",
     "queueSkipWithoutSong1": "{song2} の再生を開始しました。",
     "youLikedDonate": "GEEKミュージックをご利用いただきありがとうございます。もし気に入っていただけたら、[ここで寄付して](https://donate.maitregeek.eu)サポートしてください！",
-    "clear": "clear",
-    "clearDescription": "ボットの状態をリセットします。(問題が解決する可能性があります)",
     "clearText": "キューを正常にクリアしました。もしボットがまだ動かない場合は、[サポートサーバー](https://discord.gg/R89GmN3cGG)でご連絡ください。",
     "musicRequestTitle": "Add a song",
     "musicRequestTitleLabel": "曲タイトルまたはURL",
