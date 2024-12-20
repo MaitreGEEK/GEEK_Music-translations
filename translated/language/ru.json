@@ -225,13 +225,15 @@
     "problemTranslation": "Problem with the translations? Help us translate",
     "giveMoney": "You love GEEK Music and want to share your love? Consider donating",
     "userNotFound": "Данный пользователь не найден",
-    "songFound": "Песня успешно найдена!",
+    "songFound": "Successfully found a song! Starting to load it...",
     "songErrorDuringSkipped": "Возникла ошибка при воспроизведении этой песни, так что она была пропущена",
     "songErrorSkipped": "Возникла ошибка при загрузке этой песни, так что она была пропущена",
+    "songsErrorSkipped": "An error happened while loading multiple songs so they were skipped",
     "queueSkip": "Конец {song1}, начинаю играть {song2}",
     "queueSkipWithoutSong2": "Конец {song1}",
     "queueSkipWithoutSong1": "Начинаю играть {song2}",
     "youLikedDonate": "Если вам понравился GEEK Music, вы можете [поддержать нас донатом](https://donate.maitregeek.eu)!",
+    "clear": "clear",
     "clearDescription": "Очистить состояние бота в канале (очищает проблемы)",
     "clearText": "Очередь успешно очищена на этом сервере. Если бот всё ещё не отвечает, то свяжитесь с нами на [нашем сервере поддержки](https://discord.gg/R89GmN3cG)!",
     "musicRequestTitle": "Добавить песню",
@@ -247,5 +249,8 @@
     "invalidNewName": "Пожалуйста, введите новое имя для вашего плейлиста",
     "playlistRenameText": "Вы успешно переименовали плейлист в {playlistName}!",
     "numberSongs": "{number} песен",
-    "customInstance": "### 🎉 ДОСТУПНО СОЗДАНИЕ СВОЕГО GEEK Music! 🎉\n🚀 **Надоели лаги?** Получите **выделенного бота GEEK Music** с супер-быстрой реакцией, вашим брендингом и премиальной производительностью!\n\n**💎 От $3/месяц! 💎**\nВы будете удовлетворены, или же мы вернём вам деньги ;)\n\n✨ **Напишите maitregeek** или создайте тикет через **/ticket**!"
+    "customInstance": "### 🎉 ДОСТУПНО СОЗДАНИЕ СВОЕГО GEEK Music! 🎉\n🚀 **Надоели лаги?** Получите **выделенного бота GEEK Music** с супер-быстрой реакцией, вашим брендингом и премиальной производительностью!\n\n**💎 От $3/месяц! 💎**\nВы будете удовлетворены, или же мы вернём вам деньги ;)\n\n✨ **Напишите maitregeek** или создайте тикет через **/ticket**!",
+    "xmasContest": "### 🎄 Holiday Contest Alert! 🎄\n\nWe're hosting a special **Christmas contest** to design the next **GEEK Music bot banner**! 🌟🎅\n\nShow off your festive creativity and get a chance to **win Discord Nitro** while having your design featured for the holidays! 🖌️✨\n\n🎁 [Click here for more details!](https://geekmusic-api.m336.dev/api/img/xmascontest)🎶",
+    "allQueueSkipped": "Seems like the song(s) you tried failed...",
+    "youtubeDown": "I'm sorry, it seems that our YouTube module's down. Check [this link]({statusLink}) for updates on when it's back online.\n*If at least one Cobalt is up it should be working*\n[Need help while waiting? Check this Guide!]({documentationLink})"
 }
