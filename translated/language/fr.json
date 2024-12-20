@@ -225,7 +225,7 @@
     "problemTranslation": "Problème avec les traductions ? Aidez-nous à traduire",
     "giveMoney": "Vous aimez GEEK Music et vous voulez partager votre amour ?",
     "userNotFound": "Impossible de trouver cet utilisateur",
-    "songFound": "Une chanson a été trouvée avec succès ! Chargement en cours...",
+    "songFound": "Une piste a été trouvée avec succès ! Chargement en cours...",
     "songErrorDuringSkipped": "Une erreur s'est produite lors de la lecture de la piste, elle a donc été passée",
     "songErrorSkipped": "Une erreur s'est produite lors du chargement de la piste, elle a donc été passée",
     "songsErrorSkipped": "Une erreur s'est produite lors du chargement de plusieurs pistes, elle ont donc été ignorées",
@@ -243,12 +243,10 @@
     "creditsTxt": "La liste de tous les contributeurs est disponible [ici]({link})",
     "apiDown": "L'API du bot semble être en panne, veuillez réessayer plus tard. \nSi ce problème persiste, contactez-nous",
     "requestFailed": "La requête à l'API du bot a échoué, veuillez réessayer plus tard. \nSi ce problème persiste, contactez-nous",
-    "supportOurFundraiser": "💖 **Aidez à garder GEEK Music en vie !** 💖\nNous lançons une campagne spéciale GoFundMe pour soutenir les coûts d'une upgrade des serveurs pour GEEK Music! A cause du fait que le bot gagne en popularité, nos serveurs ont besoin d'un coup de boost pour répondre à la demande et assurer la meilleure expérience pour tout le monde. 💻⚙️❤️\n[Cliquez ici pour nous soutenir !](https://gofund.me/03af140f)",
     "invalidNewName": "Veuillez saisir un nouveau nom valide pour votre playlist",
     "playlistRenameText": "Votre playlist a été renommée avec succès en {playlistName} !",
     "numberSongs": "{number} pistes",
     "customInstance": "### 🎉 NOUVELLES INSTANCES CUSTOM DISPONIBLES ! 🎉\n🚀 **Marre des bugs ?** Obtenez votre propre **GEEK Music** dédié avec des réponses beaucoup plus rapide, un logo et une bannière personnalisée et des performances premium !\n\n**💎 À partir de seulement $3/mois! 💎**\nsatisfait ou remboursé ;]\n\n✨ **Contactez maitregeek** par mp ou envoyez un **/ticket** pour commander!",
-    "xmasContest": "### 🎄 Holiday Contest Alert! 🎄\n\nWe're hosting a special **Christmas contest** to design the next **GEEK Music bot banner**! 🌟🎅\n\nShow off your festive creativity and get a chance to **win Discord Nitro** while having your design featured for the holidays! 🖌️✨\n\n🎁 [Click here for more details!](https://geekmusic-api.m336.dev/api/img/xmascontest)🎶",
-    "allQueueSkipped": "Seems like the song(s) you tried failed...",
-    "youtubeDown": "I'm sorry, it seems that our YouTube module's down. Check [this link]({statusLink}) for updates on when it's back online.\n*If at least one Cobalt is up it should be working*\n[Need help while waiting? Check this Guide!]({documentationLink})"
+    "allQueueSkipped": "On dirait que la ou les pistes que vous avez entré ont échoué...",
+    "youtubeDown": "Je suis désolé, il semblerait que notre module YouTube soit en panne. Consultez [ce lien] ({statusLink}) pour savoir quand il sera de retour en ligne.\n*Si au moins un Cobalt est actif, il devrait fonctionner*\n[Besoin d'aide en attendant ? Consultez ce Guide !]({documentationLink})"
 }
