@@ -225,13 +225,15 @@
     "problemTranslation": "Problème avec les traductions ? Aidez-nous à traduire",
     "giveMoney": "Vous aimez GEEK Music et vous voulez partager votre amour ?",
     "userNotFound": "Impossible de trouver cet utilisateur",
-    "songFound": "Une piste a été trouvée avec succès !",
+    "songFound": "Successfully found a song! Starting to load it...",
     "songErrorDuringSkipped": "Une erreur s'est produite lors de la lecture de la piste, elle a donc été passée",
     "songErrorSkipped": "Une erreur s'est produite lors du chargement de la piste, elle a donc été passée",
+    "songsErrorSkipped": "An error happened while loading multiple songs so they were skipped",
     "queueSkip": "Fin de {song1}, lancement de {song2}",
     "queueSkipWithoutSong2": "Fin de {song1}",
     "queueSkipWithoutSong1": "Lancement de la lecture de {song2}",
     "youLikedDonate": "Si vous avez aimé utiliser GEEK Music, vous pouvez [nous soutenir en faisant un don](https://donate.maitregeek.eu)!",
+    "clear": "clear",
     "clearDescription": "Effacer l'état du bot dans votre salon (résout la plupart des problèmes)",
     "clearText": "La file d'attente a été vidée avec succès sur ce serveur. Si le bot est toujours bloqué, contactez-nous sur [notre serveur d'assistance](https://discord.gg/R89GmN3cG) !",
     "musicRequestTitle": "Ajouter une piste",
@@ -247,5 +249,8 @@
     "invalidNewName": "Veuillez saisir un nouveau nom valide pour votre playlist",
     "playlistRenameText": "Votre playlist a été renommée avec succès en {playlistName} !",
     "numberSongs": "{number} pistes",
-    "customInstance": "### 🎉 NOUVELLES INSTANCES CUSTOM DISPONIBLES ! 🎉\n🚀 **Marre des bugs ?** Obtenez votre propre **GEEK Music** dédié avec des réponses beaucoup plus rapide, un logo et une bannière personnalisée et des performances premium !\n\n**💎 À partir de seulement $3/mois! 💎**\nsatisfait ou remboursé ;]\n\n✨ **Contactez maitregeek** par mp ou envoyez un **/ticket** pour commander!"
+    "customInstance": "### 🎉 NOUVELLES INSTANCES CUSTOM DISPONIBLES ! 🎉\n🚀 **Marre des bugs ?** Obtenez votre propre **GEEK Music** dédié avec des réponses beaucoup plus rapide, un logo et une bannière personnalisée et des performances premium !\n\n**💎 À partir de seulement $3/mois! 💎**\nsatisfait ou remboursé ;]\n\n✨ **Contactez maitregeek** par mp ou envoyez un **/ticket** pour commander!",
+    "xmasContest": "### 🎄 Holiday Contest Alert! 🎄\n\nWe're hosting a special **Christmas contest** to design the next **GEEK Music bot banner**! 🌟🎅\n\nShow off your festive creativity and get a chance to **win Discord Nitro** while having your design featured for the holidays! 🖌️✨\n\n🎁 [Click here for more details!](https://geekmusic-api.m336.dev/api/img/xmascontest)🎶",
+    "allQueueSkipped": "Seems like the song(s) you tried failed...",
+    "youtubeDown": "I'm sorry, it seems that our YouTube module's down. Check [this link]({statusLink}) for updates on when it's back online.\n*If at least one Cobalt is up it should be working*\n[Need help while waiting? Check this Guide!]({documentationLink})"
 }
