@@ -1,3 +1,3 @@
-Privacy Policy
+Gizlilik Politikası
 
-All collected data is used for order execution and is not stored in the long term, only during the time of music playback, to maintain the proper functioning of the software. If you find that the stated data collection does not suit you in any way, we encourage you not to use the bot, as it is not functional without the presence of this data.
+Toplanan tüm veriler, yalnızca siparişlerin yürütülmesi için kullanılır ve uzun süreli olarak depolanmaz; yalnızca müzik çalma sırasında yazılımın doğru çalışmasını sağlamak için saklanır. Eğer belirtilen veri toplama şekli size uygun değilse, botu kullanmamanızı öneririz, çünkü bu veriler olmadan bot işlevsel değildir.
