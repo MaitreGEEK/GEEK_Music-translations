@@ -233,8 +233,6 @@
     "queueSkipWithoutSong2": "End of {song1}",
     "queueSkipWithoutSong1": "Started playing {song2}",
     "youLikedDonate": "If you liked using GEEK Music, you can [support us by donating](https://donate.maitregeek.eu)!",
-    "clear": "clear",
-    "clearDescription": "Clear the bot state in your channel (clean the issues)",
     "clearText": "Successfully cleared the queue on this serveur. If the bot's still stuck contact us on [our support server](https://discord.gg/R89GmN3cGG)!",
     "musicRequestTitle": "Add a song",
     "musicRequestTitleLabel": "Song Title or URL",
