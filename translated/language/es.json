@@ -233,8 +233,6 @@
     "queueSkipWithoutSong2": "Terminó {song1}",
     "queueSkipWithoutSong1": "Inició {song2}",
     "youLikedDonate": "Si te gusto usar GEEK Music, considera [apoyarnos con una donación](https://donate.maitregeek.eu)",
-    "clear": "clear",
-    "clearDescription": "Limpia el estado del bot en tu canal (limpia los problemas)",
     "clearText": "Se ha limpiado correctamente la cola de este servidor. Si el bot todavía está atascado, contáctenos en [nuestro servidor de soporte](https://discord.gg/R89GmN3cGG)",
     "musicRequestTitle": "Añadir una canción",
     "musicRequestTitleLabel": "Título de la canción o URL",
