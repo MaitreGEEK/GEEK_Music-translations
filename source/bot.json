@@ -253,3 +253,4 @@
     "xmasContest": "### 🎄 Holiday Contest Alert! 🎄\n\nWe're hosting a special **Christmas contest** to design the next **GEEK Music bot banner**! 🌟🎅\n\nShow off your festive creativity and get a chance to **win Discord Nitro** while having your design featured for the holidays! 🖌️✨\n\n🎁 [Click here for more details!](https://geekmusic-api.m336.dev/api/img/xmascontest)🎶",
     "allQueueSkipped": "Seems like the song(s) you tried failed...",
     "youtubeDown": "I'm sorry, it seems that our YouTube module's down. Check [this link]({statusLink}) for updates on when it's back online.\n*If at least one Cobalt is up it should be working*\n[Need help while waiting? Check this Guide!]({documentationLink})"
+}
