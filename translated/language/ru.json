@@ -233,8 +233,6 @@
     "queueSkipWithoutSong2": "Конец {song1}",
     "queueSkipWithoutSong1": "Начинаю играть {song2}",
     "youLikedDonate": "Если вам понравился GEEK Music, вы можете [поддержать нас донатом](https://donate.maitregeek.eu)!",
-    "clear": "clear",
-    "clearDescription": "Очистить состояние бота в канале (очищает проблемы)",
     "clearText": "Очередь успешно очищена на этом сервере. Если бот всё ещё не отвечает, то свяжитесь с нами на [нашем сервере поддержки](https://discord.gg/R89GmN3cG)!",
     "musicRequestTitle": "Добавить песню",
     "musicRequestTitleLabel": "Название/ссылка на песню",
