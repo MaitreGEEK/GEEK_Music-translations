@@ -1,34 +1,34 @@
-Terms Of Service
+Felhasználási feltételek
 
-1. About Us
+1. Magunkról
 
-We are self-proclaimed developers and independent artists, enjoying Discord and wanting to contribute to its history.
+Önjelölt fejlesztők és független művészek vagyunk, akik élvezik a Discordot, és hozzá akarnak járulni annak történetéhez.
 
-2. Preamble
+2. Bevezető
 
-We invite Users to carefully read these General Terms of Use (ToS). The use of the software/bot implies acceptance of these conditions. The product's features are indicated on the website. It is the user's responsibility to take them into account.
+Felkérjük a Felhasználókat, hogy figyelmesen olvassák el ezeket az Általános Felhasználási Feltételeket (ToS). A szoftver/bot használata ezen feltételek elfogadását jelenti. A termék jellemzői a honlapon találhatók. Ezek figyelembevétele a felhasználó feladata.
 
-In the event of subsequent changes to the ToS, the Client is subject to the version in force at the time of use.
+A Használati feltételek későbbi módosítása esetén az Ügyfél a használat időpontjában hatályos változatot alkalmazza.
 
-3. Definition
+3. Meghatározás
 
-"Users": includes all individuals using the software/bot.
+„Felhasználók": a szoftvert/robotot használó valamennyi személy.
 
-"Software/bot": refers in this context to "GEEK Music," which is the application allowing interaction between users and the features of the same software.
+„Szoftver/bot": ebben az összefüggésben a »GEEK Music«-ra utal, amely a felhasználók közötti interakciót lehetővé tevő alkalmazás és ugyanazon szoftver funkciói.
 
-"Site": refers to the present site linked to the bot "http://geekmusic.eu."
+„Oldal": a »http://geekmusic.eu« bothoz kapcsolódó jelen webhelyre utal
 
-"Description": Discord has a profile system; it contains below the user or software name a section commonly called "about me," which will primarily be used here for basic information.
+„Leírás": A Discordnak van egy profilrendszere; a felhasználó vagy a szoftver neve alatt található egy „rólam” elnevezésű rész, amelyet itt elsősorban az alapvető információkhoz használunk.
 
-4. Payment Related
+4. Fizetésekkel kapcsolatos
 
-The bot currently does not have any paid system or require any invoicing. However, it has a link to Patreon on its site. This is reserved for anyone wanting to help through this site and is considered a donation to the creators. ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
+A bot jelenleg nem rendelkezik fizetős rendszerrel, és nem igényel számlázást. A honlapon azonban van egy link a Patreonhoz. Ez mindenkinek fenntartva van, aki segíteni szeretne ezen az oldalon keresztül, és adománynak minősül az alkotóknak. („Bármely egyesület külön engedély nélkül fogadhat kézi adományokat.”) A fizetéssel és egyebekkel kapcsolatos esetleges problémákat és feltételeket az adott oldal kezeli, és mi semmilyen módon nem vagyunk felelősek és nem vonhatók felelősségre.
 
-5. Modifications
+5. Módosítások
 
-We reserve the right to modify the Site, ToS, and all donation rates.
+Fenntartjuk a jogot, hogy módosítsuk a Webhelyet, a ToS-t és az adományozási díjakat.
 
-When using the bot, the User is subject to the stipulations stated in the current ToS.
+A bot használata során a Felhasználó a hatályos használati feltételekben foglaltaknak megfelelően jár el.
 
 6. Processing and Sharing of Personal Data
 
