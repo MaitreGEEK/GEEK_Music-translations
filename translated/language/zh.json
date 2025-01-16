@@ -103,7 +103,7 @@
     "musicQueue": "Music Queue",
     "radioDescription": "撥放廣播電台",
     "radiostation": "一號廣播電台",
-    "radiostationDescription": "Type the name of a radio station to search for one",
+    "radiostationDescription": "選擇廣播電台",
     "radioExample": "Usage: /radio radiostation:<Radio>",
     "radioNotValid": "Not a valid radio station",
     "noRadio": "It seems I couldn't find any radio stations while searching for '{query}'...",
