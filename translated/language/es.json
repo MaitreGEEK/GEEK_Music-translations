@@ -103,7 +103,7 @@
     "musicQueue": "Cola de música",
     "radioDescription": "Reproducir una estación de radio",
     "radiostation": "radioestacion",
-    "radiostationDescription": "Type the name of a radio station to search for one",
+    "radiostationDescription": "Elige una radio",
     "radioExample": "Uso: /radio radiostation:<Radio>",
     "radioNotValid": "No es una estación de radio válida",
     "noRadio": "It seems I couldn't find any radio stations while searching for '{query}'...",
