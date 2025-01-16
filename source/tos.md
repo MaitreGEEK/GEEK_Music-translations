@@ -1,59 +1,64 @@
-Terms Of Service
+**Updated Terms of Service**
 
-1. About Us
+1. **About Us**
 
 We are self-proclaimed developers and independent artists, enjoying Discord and wanting to contribute to its history.
 
-2. Preamble
+2. **Preamble**
 
-We invite Users to carefully read these General Terms of Use (ToS). The use of the software/bot implies acceptance of these conditions. The product's features are indicated on the website. It is the user's responsibility to take them into account.
+We invite Users to carefully read these General Terms of Use (ToS). The use of the software/bot implies acceptance of these conditions. The product's features are indicated in the bot’s description and documentation. It is the user's responsibility to take them into account.
 
-In the event of subsequent changes to the ToS, the Client is subject to the version in force at the time of use.
+In the event of subsequent changes to the ToS, the User is subject to the version in force at the time of use.
 
-3. Definition
+3. **Definition**
 
-"Users": includes all individuals using the software/bot.
+- **"Users"**: Includes all individuals using the software/bot.
+- **"Software/bot"**: Refers in this context to "GEEK Music," which is the application allowing interaction between users and the features of the same software.
+- **"Description"**: Discord has a profile system; it contains, below the user or software name, a section commonly called "about me," which will primarily be used here for basic information.
 
-"Software/bot": refers in this context to "GEEK Music," which is the application allowing interaction between users and the features of the same software.
+4. **Payment Related**
 
-"Site": refers to the present site linked to the bot "http://geekmusic.eu."
+The bot includes a paid service offering hosting of a bot instance for personal use. Users have the right to withdraw from this service within 15 days from the date of purchase. A 15-day free usage period is provided without a valid payment; if this duration is exceeded, the service will be withdrawn. Payments are due regardless of service status. In cases of degraded service, we will strive to offer commercial gestures for compensation.
 
-"Description": Discord has a profile system; it contains below the user or software name a section commonly called "about me," which will primarily be used here for basic information.
+For donations, we provide a site listing the various donation methods available: **[https://donate.maitregeek.eu](https://donate.maitregeek.eu)**. **Any association may, without special authorization, receive manual donations.**
 
-4. Payment Related
+5. **Modifications**
 
-The bot currently does not have any paid system or require any invoicing. However, it has a link to Patreon on its site. This is reserved for anyone wanting to help through this site and is considered a donation to the creators. ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
+We reserve the right to modify the ToS, the bot’s features, and all associated rates or terms at any time. By using the bot, the User agrees to the stipulations in the current ToS.
 
-5. Modifications
+6. **Processing and Sharing of Personal Data**
 
-We reserve the right to modify the Site, ToS, and all donation rates.
+No registration is required for the bot. To use the software's features, the User must have a Discord account. No personal data is recorded by us. Only the words written during a command are kept in memory for the duration of the command's execution. No information is resold or stored in the long term in any way.
 
-When using the bot, the User is subject to the stipulations stated in the current ToS.
+For detailed information on how personal data is handled, please refer to our **Privacy Policy**.
 
-6. Processing and Sharing of Personal Data
+7. **Data Protection**
 
-No registration is required on the related site or bot. On the contrary, to use the software's features, the User must have a Discord account, where no information is recorded by us. Only the words written during a command are kept in memory for the duration of the command's execution. No information is therefore resold or stored in the long term in any way.
+As a Discord user, the User's data is protected by Discord. If the User encounters any problems with their personal data within Discord, they should contact Discord support, as we are not responsible for such matters.
 
-7. Data Protection
+8. **Functionality Disclaimer**
 
-As a Discord user, the User's data is protected by Discord. If the user encounters any problems with their personal data within Discord, they are requested to turn to Discord themselves as we are not responsible and can act in no way other than redirecting them to Discord support.
+The bot functions as a music player or cassette deck. It provides tools for Users to listen to sounds that they send in the form of links or files (converted into temporary or permanent links). Users are fully responsible for the content they use within the bot and must ensure they have the legal right to do so. Additionally, we are not responsible for the availability of the links Users provide. We strive to support as many formats as possible.
 
-8. Intellectual Property
+9. **Intellectual Property**
 
-The brand, logo, and graphic charter added over that present on Discord of this site and bot are intellectual works protected under copyright, exclusively owned by us. Any dissemination, exploitation, representation, reproduction, whether partial or complete, without our prior authorization will expose the infringer to possible civil and criminal proceedings.
+The brand, logo, and graphic charter of this bot are intellectual works protected under copyright and are exclusively owned by us. Any dissemination, exploitation, representation, or reproduction, whether partial or complete, without prior authorization will expose the infringer to civil and criminal proceedings.
 
-9. Jurisdiction Clause
+10. **Jurisdiction Clause**
 
-The law governing the ToS is French law. Any dispute that may arise between the Company and a User during the execution of these will be subject to an attempt at amicable resolution if possible.
+The law governing the ToS is French law. Any disputes arising between the Company and a User will be subject to an attempt at amicable resolution. If unresolved, disputes will fall under the jurisdiction of the French courts.
 
-10. Responsibility
+11. **Responsibility**
 
-If a user encounters a problem with the use or any other area related to us, they can turn to our support for help. However, we are not responsible for the unavailability, whether partial or total, of the bot if the reason for this is a problem related to the hosting of the present bot. Although we will try to resolve the issue as quickly as possible for your comfort.
+If a User encounters a problem with the bot, they can contact our support team for assistance. However, we are not responsible for the unavailability of the bot due to hosting issues. We will make every effort to resolve such problems promptly.
 
-11. Acceptance of General Terms of Use
+12. **Contact Information**
 
-We consider that anyone using the software is aware of the aforementioned ToS and adheres to them when using the bot.
+For support, complaints, or suggestions, please:
 
-12. Third-party Contact Information
+- Send an email to **[contact@maitregeek.eu](mailto\:contact@maitregeek.eu)**
+- Open a support ticket via the bot or join our Discord server at **[https://discord.gg/XaJ3GmV8eT](https://discord.gg/XaJ3GmV8eT)**
 
-The link to the Discord server for any issues and support related to the bot will be in the bot's description. The pseudonyms of the individuals to contact in case of support, complaint, and/or suggestion are also in the bot's description along with the link to the aforementioned site.
+13. **Acceptance of General Terms of Use**
+
+By using the bot, Users acknowledge and accept the above ToS.
