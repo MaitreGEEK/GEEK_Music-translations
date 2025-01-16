@@ -103,7 +103,7 @@
     "musicQueue": "Coda Musicale",
     "radioDescription": "Gioca a radiostazione",
     "radiostation": "radiostazione",
-    "radiostationDescription": "Type the name of a radio station to search for one",
+    "radiostationDescription": "Scegli una radio",
     "radioExample": "Uso: /radiostazione radio:<Radio>",
     "radioNotValid": "Stazione radio non valida",
     "noRadio": "It seems I couldn't find any radio stations while searching for '{query}'...",
