@@ -103,7 +103,7 @@
     "musicQueue": "Музыкальная очередь",
     "radioDescription": "Включить радиостанцию",
     "radiostation": "радиостанция",
-    "radiostationDescription": "Type the name of a radio station to search for one",
+    "radiostationDescription": "Выберите радиостанцию",
     "radioExample": "Использование: /радио радиостанция:<Radio>",
     "radioNotValid": "Неверная радиостанция",
     "noRadio": "It seems I couldn't find any radio stations while searching for '{query}'...",
