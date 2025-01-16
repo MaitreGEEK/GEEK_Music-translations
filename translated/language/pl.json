@@ -103,7 +103,7 @@
     "musicQueue": "Kolejka odtwarzania",
     "radioDescription": "Odtwórz stację radiową",
     "radiostation": "stacja radiowa",
-    "radiostationDescription": "Type the name of a radio station to search for one",
+    "radiostationDescription": "Wybierz radio",
     "radioExample": "Użycie: /radio radiostacja:<Radio>",
     "radioNotValid": "Niepoprawna stacja radiowa",
     "noRadio": "It seems I couldn't find any radio stations while searching for '{query}'...",
