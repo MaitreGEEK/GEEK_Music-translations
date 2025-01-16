@@ -1,0 +1,59 @@
+Terms Of Service
+
+1. About Us
+
+We are self-proclaimed developers and independent artists, enjoying Discord and wanting to contribute to its history.
+
+2. Preamble
+
+We invite Users to carefully read these General Terms of Use (ToS). The use of the software/bot implies acceptance of these conditions. The product's features are indicated on the website. It is the user's responsibility to take them into account.
+
+In the event of subsequent changes to the ToS, the Client is subject to the version in force at the time of use.
+
+3. Definition
+
+"Users": includes all individuals using the software/bot.
+
+"Software/bot": refers in this context to "GEEK Music," which is the application allowing interaction between users and the features of the same software.
+
+"Site": refers to the present site linked to the bot "http://geekmusic.eu."
+
+"Description": Discord has a profile system; it contains below the user or software name a section commonly called "about me," which will primarily be used here for basic information.
+
+4. Payment Related
+
+The bot currently does not have any paid system or require any invoicing. However, it has a link to Patreon on its site. This is reserved for anyone wanting to help through this site and is considered a donation to the creators. ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
+
+5. Modifications
+
+We reserve the right to modify the Site, ToS, and all donation rates.
+
+When using the bot, the User is subject to the stipulations stated in the current ToS.
+
+6. Processing and Sharing of Personal Data
+
+No registration is required on the related site or bot. On the contrary, to use the software's features, the User must have a Discord account, where no information is recorded by us. Only the words written during a command are kept in memory for the duration of the command's execution. No information is therefore resold or stored in the long term in any way.
+
+7. Data Protection
+
+As a Discord user, the User's data is protected by Discord. If the user encounters any problems with their personal data within Discord, they are requested to turn to Discord themselves as we are not responsible and can act in no way other than redirecting them to Discord support.
+
+8. Intellectual Property
+
+The brand, logo, and graphic charter added over that present on Discord of this site and bot are intellectual works protected under copyright, exclusively owned by us. Any dissemination, exploitation, representation, reproduction, whether partial or complete, without our prior authorization will expose the infringer to possible civil and criminal proceedings.
+
+9. Jurisdiction Clause
+
+The law governing the ToS is French law. Any dispute that may arise between the Company and a User during the execution of these will be subject to an attempt at amicable resolution if possible.
+
+10. Responsibility
+
+If a user encounters a problem with the use or any other area related to us, they can turn to our support for help. However, we are not responsible for the unavailability, whether partial or total, of the bot if the reason for this is a problem related to the hosting of the present bot. Although we will try to resolve the issue as quickly as possible for your comfort.
+
+11. Acceptance of General Terms of Use
+
+We consider that anyone using the software is aware of the aforementioned ToS and adheres to them when using the bot.
+
+12. Third-party Contact Information
+
+The link to the Discord server for any issues and support related to the bot will be in the bot's description. The pseudonyms of the individuals to contact in case of support, complaint, and/or suggestion are also in the bot's description along with the link to the aforementioned site.
