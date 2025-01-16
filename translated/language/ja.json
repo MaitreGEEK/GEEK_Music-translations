@@ -103,7 +103,7 @@
     "musicQueue": "音楽キュー",
     "radioDescription": "ラジオステーションをプレイ",
     "radiostation": "<unk>",
-    "radiostationDescription": "Type the name of a radio station to search for one",
+    "radiostationDescription": "ラジオを選択",
     "radioExample": "使用法: /radio radiostation:<Radio>",
     "radioNotValid": "有効なラジオ局ではありません",
     "noRadio": "It seems I couldn't find any radio stations while searching for '{query}'...",
