@@ -103,7 +103,7 @@
     "musicQueue": "Musikwarteschlange",
     "radioDescription": "Radiosender abspielen",
     "radiostation": "Radiosender",
-    "radiostationDescription": "Type the name of a radio station to search for one",
+    "radiostationDescription": "Wählen Sie einen Sender",
     "radioExample": "Verwendung: /radio radiostation:<Radio>",
     "radioNotValid": "Kein gültiger Radiosender",
     "noRadio": "It seems I couldn't find any radio stations while searching for '{query}'...",
