@@ -103,7 +103,7 @@
     "musicQueue": "Zenelista",
     "radioDescription": "Rádióállomásról való játszás",
     "radiostation": "rádióállomás",
-    "radiostationDescription": "Type the name of a radio station to search for one",
+    "radiostationDescription": "Válassz egy rádiót",
     "radioExample": "Használat: /radió rádióállomás:<Radio>",
     "radioNotValid": "Nem felismert rádióállomás",
     "noRadio": "It seems I couldn't find any radio stations while searching for '{query}'...",
