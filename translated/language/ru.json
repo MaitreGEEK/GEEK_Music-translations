@@ -106,7 +106,7 @@
     "radiostationDescription": "Выберите радиостанцию",
     "radioExample": "Использование: /радио радиостанция:<Radio>",
     "radioNotValid": "Неверная радиостанция",
-    "noRadio": "It seems I couldn't find any radio stations while searching for '{query}'...",
+    "noRadio": "Похоже, я не могу найти никаких радиостанций при поиске '{query}'...",
     "joinedChannel": "Присоединился к {voiceChannel} {noteemoji} через {textChannel}",
     "byUser": "Пользователем {user}",
     "noSongFound": "Песня не найдена",
@@ -221,10 +221,10 @@
     "problemTranslation": "Problem with the translations? Help us translate",
     "giveMoney": "You love GEEK Music and want to share your love? Consider donating",
     "userNotFound": "Данный пользователь не найден",
-    "songFound": "Successfully found a song! Starting to load it...",
+    "songFound": "Песня найдена! Загрузка...",
     "songErrorDuringSkipped": "Возникла ошибка при воспроизведении этой песни, так что она была пропущена",
     "songErrorSkipped": "Возникла ошибка при загрузке этой песни, так что она была пропущена",
-    "songsErrorSkipped": "An error happened while loading multiple songs so they were skipped",
+    "songsErrorSkipped": "Произошла ошибка при попытке загрузить несколько песен, так что они были пропущены",
     "queueSkip": "Конец {song1}, начинаю играть {song2}",
     "queueSkipWithoutSong2": "Конец {song1}",
     "queueSkipWithoutSong1": "Начинаю играть {song2}",
@@ -243,6 +243,6 @@
     "playlistRenameText": "Вы успешно переименовали плейлист в {playlistName}!",
     "numberSongs": "{number} песен",
     "customInstance": "### 🎉 ДОСТУПНО СОЗДАНИЕ СВОЕГО GEEK Music! 🎉\n🚀 **Надоели лаги?** Получите **выделенного бота GEEK Music** с супер-быстрой реакцией, вашим брендингом и премиальной производительностью!\n\n**💎 От $3/месяц! 💎**\nВы будете удовлетворены, или же мы вернём вам деньги ;)\n\n✨ **Напишите maitregeek** или создайте тикет через **/ticket**!",
-    "allQueueSkipped": "Seems like the song(s) you tried failed...",
-    "youtubeDown": "I'm sorry, it seems that our YouTube module's down. Check [this link]({statusLink}) for updates on when it's back online.\n*If at least one Cobalt is up it should be working*\n[Need help while waiting? Check this Guide!]({documentationLink})"
+    "allQueueSkipped": "Похоже, что песню(и), которые вы добавили, не получилось воспроизвести...",
+    "youtubeDown": "Приносим свои извинения, похоже, что модуль YouTube не работает. Проверьте [эту ссылку]({statusLink}) для того, чтобы узнать, когда он заработает.\n*Модуль должен работать, если как минимум один API Cobalt работает*\n[Нужна помощь при ожидании? Посмотрите этот гайд!]({documentationLink})"
 }
