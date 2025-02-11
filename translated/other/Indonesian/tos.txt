@@ -1,59 +1,67 @@
-Terms Of Service
+Ketentuan Layanan
 
-1. About Us
+1. Tentang Kami
 
-We are self-proclaimed developers and independent artists, enjoying Discord and wanting to contribute to its history.
+Kami adalah pengembang dan seniman independen yang menikmati Discord dan ingin berkontribusi pada sejarahnya.
 
-2. Preamble
+2. Pendahuluan
 
-We invite Users to carefully read these General Terms of Use (ToS). The use of the software/bot implies acceptance of these conditions. The product's features are indicated on the website. It is the user's responsibility to take them into account.
+Kami mengundang Pengguna untuk membaca Ketentuan Penggunaan Umum (ToS) ini dengan cermat. Penggunaan perangkat lunak/bot berarti penerimaan atas ketentuan ini. Fitur produk telah dijelaskan di situs web. Pengguna bertanggung jawab untuk memahami fitur tersebut.
 
-In the event of subsequent changes to the ToS, the Client is subject to the version in force at the time of use.
+Jika ada perubahan pada ToS di masa mendatang, Pengguna akan tunduk pada versi yang berlaku pada saat penggunaan.
 
-3. Definition
+3. Definisi
 
-"Users": includes all individuals using the software/bot.
+"Pengguna": mencakup semua individu yang menggunakan perangkat lunak/bot.
 
-"Software/bot": refers in this context to "GEEK Music," which is the application allowing interaction between users and the features of the same software.
+"Perangkat lunak/bot": mengacu pada "GEEK Music," yaitu aplikasi yang memungkinkan interaksi antara pengguna dengan fitur dari perangkat lunak yang sama.
 
-"Site": refers to the present site linked to the bot "http://geekmusic.eu."
+"Situs": merujuk pada situs yang terkait dengan bot, yaitu "http://geekmusic.eu."
 
-"Description": Discord has a profile system; it contains below the user or software name a section commonly called "about me," which will primarily be used here for basic information.
+"Deskripsi": Discord memiliki sistem profil yang mencakup bagian "tentang saya," yang akan digunakan di sini untuk informasi dasar.
 
-4. Payment Related
 
-The bot currently does not have any paid system or require any invoicing. However, it has a link to Patreon on its site. This is reserved for anyone wanting to help through this site and is considered a donation to the creators. ("Any association may, without special authorization, receive manual donations.") Possible issues and terms related to payment and others are managed with the respective site, and we are in no way responsible and cannot be held responsible.
+4. Terkait Pembayaran
 
-5. Modifications
+Bot saat ini tidak memiliki sistem berbayar atau memerlukan faktur. Namun, situsnya memiliki tautan ke Patreon, yang diperuntukkan bagi siapa saja yang ingin mendukung proyek ini. Dukungan tersebut dianggap sebagai donasi kepada para pembuat. ("Setiap asosiasi dapat menerima donasi manual tanpa memerlukan izin khusus.")
 
-We reserve the right to modify the Site, ToS, and all donation rates.
+Masalah dan ketentuan terkait pembayaran dikelola oleh situs terkait, dan kami tidak bertanggung jawab atas hal tersebut.
 
-When using the bot, the User is subject to the stipulations stated in the current ToS.
+5. Perubahan
 
-6. Processing and Sharing of Personal Data
+Kami berhak untuk mengubah Situs, ToS, dan semua tarif donasi.
 
-No registration is required on the related site or bot. On the contrary, to use the software's features, the User must have a Discord account, where no information is recorded by us. Only the words written during a command are kept in memory for the duration of the command's execution. No information is therefore resold or stored in the long term in any way.
+Saat menggunakan bot, Pengguna tunduk pada ketentuan ToS yang berlaku saat itu.
 
-7. Data Protection
+6. Pemrosesan dan Berbagi Data Pribadi
 
-As a Discord user, the User's data is protected by Discord. If the user encounters any problems with their personal data within Discord, they are requested to turn to Discord themselves as we are not responsible and can act in no way other than redirecting them to Discord support.
+Tidak diperlukan pendaftaran di situs atau bot terkait. Untuk menggunakan fitur perangkat lunak, Pengguna harus memiliki akun Discord, tetapi kami tidak menyimpan informasi apa pun. Hanya kata-kata yang diketik saat menjalankan perintah yang akan disimpan sementara selama perintah berlangsung.
 
-8. Intellectual Property
+Tidak ada informasi yang dijual atau disimpan dalam jangka panjang dengan cara apa pun.
 
-The brand, logo, and graphic charter added over that present on Discord of this site and bot are intellectual works protected under copyright, exclusively owned by us. Any dissemination, exploitation, representation, reproduction, whether partial or complete, without our prior authorization will expose the infringer to possible civil and criminal proceedings.
+7. Perlindungan Data
 
-9. Jurisdiction Clause
+Sebagai pengguna Discord, data Pengguna dilindungi oleh Discord. Jika Pengguna mengalami masalah dengan data pribadi mereka di dalam Discord, mereka harus menghubungi Discord secara langsung karena kami tidak bertanggung jawab dan hanya dapat mengarahkan mereka ke dukungan Discord.
 
-The law governing the ToS is French law. Any dispute that may arise between the Company and a User during the execution of these will be subject to an attempt at amicable resolution if possible.
+8. Hak Kekayaan Intelektual
 
-10. Responsibility
+Merek, logo, dan desain grafis yang ditambahkan di situs dan bot ini adalah karya intelektual yang dilindungi hak cipta dan sepenuhnya dimiliki oleh kami. Penyebaran, eksploitasi, representasi, atau reproduksi, baik sebagian maupun seluruhnya, tanpa izin sebelumnya dari kami akan berakibat pada tindakan hukum, baik perdata maupun pidana.
 
-If a user encounters a problem with the use or any other area related to us, they can turn to our support for help. However, we are not responsible for the unavailability, whether partial or total, of the bot if the reason for this is a problem related to the hosting of the present bot. Although we will try to resolve the issue as quickly as possible for your comfort.
+9. Klausa Yurisdiksi
 
-11. Acceptance of General Terms of Use
+Hukum yang berlaku untuk ToS ini adalah hukum Prancis. Setiap perselisihan yang mungkin timbul antara Perusahaan dan Pengguna selama pelaksanaan ToS ini akan diupayakan untuk diselesaikan secara damai terlebih dahulu.
 
-We consider that anyone using the software is aware of the aforementioned ToS and adheres to them when using the bot.
+10. Tanggung Jawab
 
-12. Third-party Contact Information
+Jika Pengguna mengalami masalah dalam penggunaan bot atau aspek lain yang terkait dengan kami, mereka dapat menghubungi dukungan kami. Namun, kami tidak bertanggung jawab atas ketidaktersediaan bot, baik sebagian maupun keseluruhan, jika disebabkan oleh masalah hosting.
 
-The link to the Discord server for any issues and support related to the bot will be in the bot's description. The pseudonyms of the individuals to contact in case of support, complaint, and/or suggestion are also in the bot's description along with the link to the aforementioned site.
+Kami akan berusaha menyelesaikan masalah tersebut secepat mungkin demi kenyamanan Pengguna.
+
+11. Penerimaan Ketentuan Penggunaan
+
+Kami menganggap bahwa setiap orang yang menggunakan perangkat lunak ini telah mengetahui ToS yang disebutkan di atas dan menyetujuinya saat menggunakan bot.
+
+12. Informasi Kontak Pihak Ketiga
+
+Tautan ke server Discord untuk masalah dan dukungan terkait bot tersedia di deskripsi bot. Nama pengguna yang dapat dihubungi untuk dukungan, keluhan, atau saran juga tertera di deskripsi bot beserta tautan ke situs yang disebutkan di atas.
+
