@@ -1,3 +1,3 @@
-Privacy Policy
+Kebijakan Privasi
 
-All collected data is used for order execution and is not stored in the long term, only during the time of music playback, to maintain the proper functioning of the software. If you find that the stated data collection does not suit you in any way, we encourage you not to use the bot, as it is not functional without the presence of this data.
+Semua data yang dikumpulkan digunakan untuk eksekusi pesanan dan tidak disimpan dalam jangka panjang, hanya selama masa pemutaran musik, untuk mempertahankan fungsi perangkat lunak yang tepat. Jika Anda menemukan bahwa pengumpulan data yang dinyatakan tidak sesuai dengan Anda dengan cara apa pun, kami melarang Anda untuk tidak menggunakan bot, karena tidak berfungsi tanpa adanya data ini.
