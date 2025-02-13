@@ -244,5 +244,6 @@
     "numberSongs": "{number} canciones",
     "customInstance": "### 🎉 ¡NUEVOS NIVELES DE INSTANCIA PERSONALIZADOS DISPONIBLES! 🎉\n🚀 **¿Cansado del lag?** ¡Consigue tu propio **bot dedicado de GEEK Music** con respuestas ultrarrápidas, marca personalizada y rendimiento premium!\n\n**A partir de solo 3$/mes. 💎**\nSatisfecho o le devolvemos su dinero ;]\n\n¡✨ **Contacta con Maitregeek** por dm o envía un **/ticket** para empezar!",
     "allQueueSkipped": "Parece que la(s) canción(es) que intentaste fallaron...",
-    "youtubeDown": "Lo siento, parece que nuestro módulo de YouTube no funciona. Comprueba [este enlace]({statusLink}) para saber cuándo volverá a estar online.\n*Si al menos un Cobalt está activo, debería funcionar.\n[¿Necesitas ayuda mientras esperas? Consulta esta guía]({documentationLink})"
+    "youtubeDown": "Lo siento, parece que nuestro módulo de YouTube no funciona. Comprueba [este enlace]({statusLink}) para saber cuándo volverá a estar online.\n*Si al menos un Cobalt está activo, debería funcionar.\n[¿Necesitas ayuda mientras esperas? Consulta esta guía]({documentationLink})",
+    "feedbackAd": "### 🎵 Want to help improve the bot? \nShare your feedback with us! ✨ \n\nIt only takes a minute: [Click HERE](<https://l.maitregeek.eu/gm-feedback>)"
 }
