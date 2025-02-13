@@ -244,5 +244,6 @@
     "numberSongs": "\"{number} şarkı\"",
     "customInstance": "### 🎉 **YENİ ÖZEL BOT PAKETLERİ ARTIK MEVCUT!** 🎉 \n🚀 **Lagdan bıktınız mı?** Kendi **özel GEEK Music botunuzu** edinin! Ultra hızlı yanıtlar, özel marka seçenekleri ve premium performans sizinle. \n\n**💎 Sadece aylık $3'dan başlayan fiyatlarla! 💎** \nMemnun kalmazsanız paranız iade ;] \n\n✨ **Başlamak için maitregeek** ile DM üzerinden iletişime geçin veya bir **/ticket** gönderin!",
     "allQueueSkipped": "\"Görünüşe göre denediğiniz şarkı(s) başarısız oldu...\"...",
-    "youtubeDown": "\"Üzgünüm, YouTube modülümüz şu anda çalışmıyor gibi görünüyor. Ne zaman tekrar çevrimiçi olacağına dair güncellemeler için [bu bağlantıyı]({statusLink}) kontrol edin. \n*Eğer en az bir Cobalt çalışıyorsa, modülün çalışması gerekiyor.* \n[Beklerken yardıma mı ihtiyacınız var? Bu Kılavuza göz atın!]({documentationLink})\""
+    "youtubeDown": "\"Üzgünüm, YouTube modülümüz şu anda çalışmıyor gibi görünüyor. Ne zaman tekrar çevrimiçi olacağına dair güncellemeler için [bu bağlantıyı]({statusLink}) kontrol edin. \n*Eğer en az bir Cobalt çalışıyorsa, modülün çalışması gerekiyor.* \n[Beklerken yardıma mı ihtiyacınız var? Bu Kılavuza göz atın!]({documentationLink})\"",
+    "feedbackAd": "### 🎵 Want to help improve the bot? \nShare your feedback with us! ✨ \n\nIt only takes a minute: [Click HERE](<https://l.maitregeek.eu/gm-feedback>)"
 }
