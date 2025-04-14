@@ -84,7 +84,7 @@
     "pauseDescription": "Çalan şarkıyı durdur",
     "pauseMusic": "{user} şarkıyı durdurdu",
     "playDescription": "YouTube/Stream/Files/Spotify/Soundcloud/Deezer/AppleMusic ve diğer platformlardan şarkılar çalın",
-    "musicDescription": "Soundcloud, Spotify, YouTube, NewGrounds, Deezer, Apple Music, Tidal'dan Müzik Başlığı veya Bağlantısı",
+    "musicDescription": "Soundcloud, Spotify, YouTube, Deezer, Apple Music, Tidal'dan Müzik Başlığı veya Bağlantısı",
     "fileDescription": "Müzik Dosyası (ses ve video dosyalarını destekler)",
     "playExample": "Kullanım: /play music:<Title or Link> ya da /play file:<Audio File | Video File>",
     "joinPermission": "Ses kanalına katılabilmem için izinlere ihtiyacım var",
