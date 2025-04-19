@@ -242,7 +242,7 @@
     "numberSongs": "{number} músicas",
     "customInstance": "### 🎉 NOVOS NÍVEIS DE INSTANÇA PERSONALIZADO! 🎉\n🚀 **Cansado de lag?** Obtenha seu próprio **bot de música GEEK dedicado** com respostas ultrarrápidas, marca personalizada e desempenho premium!\n\n**💎 Começando por apenas $3/mês! 💎**\nSatisfação garantida ou seu dinheiro de volta ;]\n\n✨ **Entre em contato com maitregeek** por dm ou envie um **/ticket** para começar!",
     "allQueueSkipped": "Parece que a(s) música(s) que você tentou, falharam...",
-    "youtubeDown": "Desculpe, parece que o nosso modulo do YouTube esta inoperante. Verifique [nesse link]({statusLink}) para saber quando estiver online novamente.\n*Se pelo menos um Cobalt estiver online deve estar funcionando*\n[Precisa de ajuda enquanto espera? Olhe esse Guia!]({documentationLink})",
+    "youtubeDown": "**YouTube is down or the track you tried didn’t work.**\n\n⚠️ If YouTube is down, Spotify, Deezer, and Tidal won’t work either. See [this guide]({documentationLink}) for details.\n\n✅ If at least one instance is 🟢 on [the status page]({statusLink}), the system *should* work.",
     "feedbackAd": "### 🎵 Quer ajudar a melhorar o bot? \nCompartilhe sua opinião conosco! ✨ \n\nLeva apenas um minuto: [Clique AQUI](<https://l.maitregeek.eu/gm-feedback>)",
     "nullTime": "Impossível prever",
     "nextPlayDescription": "Se esta música deve ser reproduzida imediatamente após a música atual ou não",
