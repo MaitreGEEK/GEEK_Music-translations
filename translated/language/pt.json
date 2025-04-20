@@ -258,6 +258,5 @@
     "suggestSent": "Sua sugestão foi enviada para a nossa equipe com sucesso",
     "multipleSongsAddedToPlaylist": "{songNumber} songs have been added to your playlist",
     "emptySongRequest": "There's no song in your request",
-    "playlist-add-multiple": "add-multiple",
     "playlist-add-multiplDescription": "Add multiple songs to your playlist at once. Separate them with a comma"
 }
