@@ -255,5 +255,9 @@
     "suggestTitlePlaceholder": "Enter a suggestion title",
     "suggestDescriptionLabel": "Describe your suggestion",
     "suggestDescriptionPlaceholder": "Please describe your suggestion with details",
-    "suggestSent": "Your suggestion has been sent to our teams successfully"
+    "suggestSent": "Your suggestion has been sent to our teams successfully",
+    "multipleSongsAddedToPlaylist": "{songNumber} songs have been added to your playlist",
+    "emptySongRequest": "There's no song in your request",
+    "playlist-add-multiple": "add-multiple",
+    "playlist-add-multiplDescription": "Add multiple songs to your playlist at once. Separate them with a comma"
 }
