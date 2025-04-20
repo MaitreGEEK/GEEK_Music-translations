@@ -255,5 +255,9 @@
     "suggestTitlePlaceholder": "Öneri başlığını girin",
     "suggestDescriptionLabel": "Önerinizi belirtin",
     "suggestDescriptionPlaceholder": "Lütfen önerinizi detaylı bir şekilde belirtin",
-    "suggestSent": "Öneriniz ekiplerimize başarıyla iletildi"
+    "suggestSent": "Öneriniz ekiplerimize başarıyla iletildi",
+    "multipleSongsAddedToPlaylist": "{songNumber} songs have been added to your playlist",
+    "emptySongRequest": "There's no song in your request",
+    "playlist-add-multiple": "add-multiple",
+    "playlist-add-multiplDescription": "Add multiple songs to your playlist at once. Separate them with a comma"
 }
