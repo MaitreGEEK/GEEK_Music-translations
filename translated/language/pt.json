@@ -258,5 +258,10 @@
     "suggestSent": "Sua sugestão foi enviada para a nossa equipe com sucesso",
     "multipleSongsAddedToPlaylist": "{songNumber} foram adicionadas a sua playlist",
     "emptySongRequest": "Não há música no seu pedido",
-    "playlist-add-multiplDescription": "Adicione várias músicas à sua playlist de uma vez. Separe-as com vírgula"
+    "playlist-add-multipleDescription": "Add multiple songs to your playlist at once. Separate them with a comma",
+    "music-multipleDescription": "Music titles or links separated by commas, from SoundCloud/Spotify/YouTube/Deezer/AppleMusic/others",
+    "play-multipleDescription": "Add multiple songs to your queue from YouTube/Stream/Spotify/SoundCloud/Deezer/AppleMusic/others",
+    "searchingMultipleEntries": "Searching {searchEmoji} {songNumber} entries",
+    "multipleSongsFound": "Successfully found {songNumber} songs! Starting to load them...",
+    "multipleSongsAddedToQueue": "Have been added to the queue"
 }
