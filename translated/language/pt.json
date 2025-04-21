@@ -256,7 +256,7 @@
     "suggestDescriptionLabel": "Descreva a sua sugestão",
     "suggestDescriptionPlaceholder": "Por favor, descreva sua sugestão com detalhes",
     "suggestSent": "Sua sugestão foi enviada para a nossa equipe com sucesso",
-    "multipleSongsAddedToPlaylist": "{songNumber} songs have been added to your playlist",
-    "emptySongRequest": "There's no song in your request",
-    "playlist-add-multiplDescription": "Add multiple songs to your playlist at once. Separate them with a comma"
+    "multipleSongsAddedToPlaylist": "{songNumber} foram adicionadas a sua playlist",
+    "emptySongRequest": "Não há música no seu pedido",
+    "playlist-add-multiplDescription": "Adicione várias músicas à sua playlist de uma vez. Separe-as com vírgula"
 }
