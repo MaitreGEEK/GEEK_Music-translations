@@ -242,11 +242,11 @@
     "numberSongs": "{number} songs",
     "customInstance": "### 🎉 NEW CUSTOM INSTANCE TIERS AVAILABLE! 🎉\n🚀 **Tired of lag?** Get your own **dedicated GEEK Music bot** with ultra-fast responses, custom branding, and premium performance!\n\n**💎 Starting at just $3/month! 💎**\nSatisfied or your money back ;]\n\n✨ **Contact maitregeek** by dm or send a **/ticket** to get started!",
     "allQueueSkipped": "Seems like the song(s) you tried failed...",
-    "youtubeDown": "**YouTube is down or the track you tried didn’t work.**\n\n⚠️ If YouTube is down, Spotify, Deezer, and Tidal won’t work either. See [this guide]({documentationLink}) for details.\n\n✅ If at least one instance is 🟢 on [the status page]({statusLink}), the system *should* work.",    
+    "youtubeDown": "**YouTube is down or the track you tried didn’t work.**\n\n⚠️ If YouTube is down, Spotify, Deezer, and Tidal won’t work either. See [this guide]({documentationLink}) for details.\n\n✅ If at least one instance is 🟢 on [the status page]({statusLink}), the system *should* work.",
     "feedbackAd": "### 🎵 Want to help improve the bot? \nShare your feedback with us! ✨ \n\nIt only takes a minute: [Click HERE](<https://l.maitregeek.eu/gm-feedback>)",
     "nullTime": "Impossible to predict",
     "nextPlayDescription": "Whether this song should be played immediately after the current one or not",
-    "platformsDescription":"Get all platforms supported by the bot",
+    "platformsDescription": "Get all platforms supported by the bot",
     "platformsTitle": "Platforms",
     "platformsText": "The platforms list can be found by clicking [here]({platformsLink})",
     "suggestionDescription": "Send a suggestion for the bot to the development team",
@@ -258,5 +258,10 @@
     "suggestSent": "Your suggestion has been sent to our teams successfully",
     "multipleSongsAddedToPlaylist": "{songNumber} songs have been added to your playlist",
     "emptySongRequest": "There's no song in your request",
-    "playlist-add-multiplDescription": "Add multiple songs to your playlist at once. Separate them with a comma"
+    "playlist-add-multipleDescription": "Add multiple songs to your playlist at once. Separate them with a comma",
+    "music-multipleDescription": "Music titles or links separated by commas, from SoundCloud/Spotify/YouTube/Deezer/AppleMusic/others",
+    "play-multipleDescription": "Add multiple songs to your queue from YouTube/Stream/Spotify/SoundCloud/Deezer/AppleMusic/others",
+    "searchingMultipleEntries": "Searching {searchEmoji} {songNumber} entries",
+    "multipleSongsFound": "Successfully found {songNumber} songs! Starting to load them...",
+    "multipleSongsAddedToQueue": "Have been added to the queue"
 }
