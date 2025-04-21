@@ -263,5 +263,7 @@
     "play-multipleDescription": "Add multiple songs to your queue from YouTube/Stream/Spotify/SoundCloud/Deezer/AppleMusic/others",
     "searchingMultipleEntries": "Searching {searchEmoji} {songNumber} entries",
     "multipleSongsFound": "Successfully found {songNumber} songs! Starting to load them...",
-    "multipleSongsAddedToQueue": "Have been added to the queue"
+    "multipleSongsAddedToQueue": "Have been added to the queue",
+    "ticketSongLabel": "Enter the song you tried",
+    "ticketSongPlaceholder": "Example: https://youtu.be/dQw4w9WgXcQ"
 }
