@@ -256,7 +256,12 @@
     "suggestDescriptionLabel": "Descreva a sua sugestão",
     "suggestDescriptionPlaceholder": "Por favor, descreva sua sugestão com detalhes",
     "suggestSent": "Sua sugestão foi enviada para a nossa equipe com sucesso",
-    "multipleSongsAddedToPlaylist": "{songNumber} songs have been added to your playlist",
-    "emptySongRequest": "There's no song in your request",
-    "playlist-add-multiplDescription": "Add multiple songs to your playlist at once. Separate them with a comma"
+    "multipleSongsAddedToPlaylist": "{songNumber} foram adicionadas a sua playlist",
+    "emptySongRequest": "Não há música no seu pedido",
+    "playlist-add-multipleDescription": "Add multiple songs to your playlist at once. Separate them with a comma",
+    "music-multipleDescription": "Music titles or links separated by commas, from SoundCloud/Spotify/YouTube/Deezer/AppleMusic/others",
+    "play-multipleDescription": "Add multiple songs to your queue from YouTube/Stream/Spotify/SoundCloud/Deezer/AppleMusic/others",
+    "searchingMultipleEntries": "Searching {searchEmoji} {songNumber} entries",
+    "multipleSongsFound": "Successfully found {songNumber} songs! Starting to load them...",
+    "multipleSongsAddedToQueue": "Have been added to the queue"
 }
