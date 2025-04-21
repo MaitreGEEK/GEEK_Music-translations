@@ -258,12 +258,12 @@
     "suggestSent": "Votre suggestion a été envoyée à nos équipes avec succès",
     "multipleSongsAddedToPlaylist": "{songNumber} pistes ont été ajoutées à votre playlist",
     "emptySongRequest": "Il n'y a pas de piste dans votre requête",
-    "playlist-add-multipleDescription": "Add multiple songs to your playlist at once. Separate them with a comma",
-    "music-multipleDescription": "Music titles or links separated by commas, from SoundCloud/Spotify/YouTube/Deezer/AppleMusic/others",
-    "play-multipleDescription": "Add multiple songs to your queue from YouTube/Stream/Spotify/SoundCloud/Deezer/AppleMusic/others",
+    "playlist-add-multipleDescription": "Ajoute plusieurs pistes à votre playlist à la fois. Séparez-les par une virgule",
+    "music-multipleDescription": "Titres ou liens séparés par des virgules de SoundCloud/Spotify/YouTube/Deezer/AppleMusic/autres",
+    "play-multipleDescription": "Ajoute plusieurs chansons à votre liste de lecture depuis YouTube/Liens/Spotify/SoundCloud/Deezer/AppleMusic/autres",
     "searchingMultipleEntries": "Searching {searchEmoji} {songNumber} entries",
     "multipleSongsFound": "Successfully found {songNumber} songs! Starting to load them...",
-    "multipleSongsAddedToQueue": "Have been added to the queue",
+    "multipleSongsAddedToQueue": "Ont été ajoutés à la liste de lecture",
     "ticketSongLabel": "Enter the song you tried",
     "ticketSongPlaceholder": "Example: https://youtu.be/dQw4w9WgXcQ"
 }
