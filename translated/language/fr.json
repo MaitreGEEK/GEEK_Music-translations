@@ -261,9 +261,9 @@
     "playlist-add-multipleDescription": "Ajoute plusieurs pistes à votre playlist à la fois. Séparez-les par une virgule",
     "music-multipleDescription": "Titres ou liens séparés par des virgules de SoundCloud/Spotify/YouTube/Deezer/AppleMusic/autres",
     "play-multipleDescription": "Ajoute plusieurs chansons à votre liste de lecture depuis YouTube/Liens/Spotify/SoundCloud/Deezer/AppleMusic/autres",
-    "searchingMultipleEntries": "Searching {searchEmoji} {songNumber} entries",
-    "multipleSongsFound": "Successfully found {songNumber} songs! Starting to load them...",
+    "searchingMultipleEntries": "Recherche en cours {searchEmoji} de {songNumber} entrées",
+    "multipleSongsFound": "{songNumber} pistes ont été trouvées avec succès ! Chargement en cours...",
     "multipleSongsAddedToQueue": "Ont été ajoutés à la liste de lecture",
-    "ticketSongLabel": "Enter the song you tried",
-    "ticketSongPlaceholder": "Example: https://youtu.be/dQw4w9WgXcQ"
+    "ticketSongLabel": "Entrez la piste que vous avez essayé",
+    "ticketSongPlaceholder": "Exemple : https://youtu.be/dQw4w9WgXcQ"
 }
