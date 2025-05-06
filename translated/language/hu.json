@@ -5,7 +5,7 @@
     "inviteDescription": "Visszaküldi a bot meghívó link-jét",
     "loveUsingOurBot": "Élvezed a GEEK Music társaságát? [Add hozzá]({invite}) a saját szerveredhez!",
     "donateDescription": "Visszaküld egy linket, amin keresztül támogathatod a bot fenttartását",
-    "donateSubscribe": "Tetszik a GEEK Music? Támogasd a botot! (https://donate.maitregeek.eu)",
+    "donateSubscribe": "Tetszik a GEEK Music? Támogasd [a botot!](https://donate.maitregeek.eu)",
     "donateTitle": "A GEEK Music adományozási linkje",
     "pongDescription": "Visszaadja a bot válaszidejét",
     "pongText": "from `m336_`'s servers, it's probably his fault if it's slow af",
