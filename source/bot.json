@@ -18,7 +18,7 @@
     "minuteAbbr": "{minute}m",
     "secondAbbr": "{second}s",
     "topDescription": "Returns the current leaderboard",
-    "waitLeaderboard": "Please wait for the leaderboard to be updated before running this command again",
+    "leaderboardEmpty": "The leaderboard is empty. It's possible that no one has used the bot yet.",
     "leaderboardTitle": "Global Leaderboard",
     "lastUpdate": "Last Update:",
     "nextUpdate": "Next Update:",
