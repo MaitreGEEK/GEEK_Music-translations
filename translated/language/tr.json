@@ -20,8 +20,6 @@
     "topDescription": "Anlık lider tahtasını getirir",
     "leaderboardEmpty": "The leaderboard is empty. It's possible that no one has used the bot yet.",
     "leaderboardTitle": "Global Lider Tahtası",
-    "lastUpdate": "Son güncellemeler:",
-    "nextUpdate": "Sonraki güncellemeler:",
     "statusDescription": "\"Bot hakkında bazı teknik bilgileri gösterir.\"",
     "uptimeText": "Uptime / Çalışma süresi:",
     "filterDescription": "Çalan şarkıya filterleri uygula",
