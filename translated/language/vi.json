@@ -20,8 +20,6 @@
     "topDescription": "Quay trở lại bảng thứ hạng hiện tại",
     "leaderboardEmpty": "The leaderboard is empty. It's possible that no one has used the bot yet.",
     "leaderboardTitle": "Bảng thứ hạng thế giới",
-    "lastUpdate": "Cập nhật lần cuối:",
-    "nextUpdate": "Cập nhật tiếp theo:",
     "statusDescription": "Returns some technical informations about the bot",
     "uptimeText": "Uptime:",
     "filterDescription": "Apply filters to the current song",
