@@ -20,8 +20,6 @@
     "topDescription": "Показывает текущий список лидеров",
     "leaderboardEmpty": "The leaderboard is empty. It's possible that no one has used the bot yet.",
     "leaderboardTitle": "Глобальный список лидеров",
-    "lastUpdate": "Последнее обновление:",
-    "nextUpdate": "Следующее обновление:",
     "statusDescription": "Техническая информация о боте",
     "uptimeText": "Время работы:",
     "filterDescription": "Применить фильтры к текущей песне",
