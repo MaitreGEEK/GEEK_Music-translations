@@ -20,8 +20,6 @@
     "topDescription": "Restituisce il Leadeboard corrente",
     "leaderboardEmpty": "The leaderboard is empty. It's possible that no one has used the bot yet.",
     "leaderboardTitle": "Classifica Globale",
-    "lastUpdate": "Ultimo Aggiornamento:",
-    "nextUpdate": "Prossimo Aggiornamento:",
     "statusDescription": "Returns some technical informations about the bot",
     "uptimeText": "Uptime:",
     "filterDescription": "Applica filtri al brano corrente",
