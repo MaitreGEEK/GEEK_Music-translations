@@ -20,8 +20,6 @@
     "topDescription": "Renvoie le classement actuel",
     "leaderboardEmpty": "The leaderboard is empty. It's possible that no one has used the bot yet.",
     "leaderboardTitle": "Classement Global",
-    "lastUpdate": "Dernière Mise à Jour :",
-    "nextUpdate": "Prochaine Mise à Jour :",
     "statusDescription": "Renvoie des informations techniques sur le bot",
     "uptimeText": "Temps d'activité :",
     "filterDescription": "Appliquer des effets à la musique en cours",
