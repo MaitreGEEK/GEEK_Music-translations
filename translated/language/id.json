@@ -20,8 +20,6 @@
     "topDescription": "Returns the current leaderboard",
     "leaderboardEmpty": "The leaderboard is empty. It's possible that no one has used the bot yet.",
     "leaderboardTitle": "Global Leaderboard",
-    "lastUpdate": "Last Update:",
-    "nextUpdate": "Next Update:",
     "statusDescription": "Returns some technical informations about the bot",
     "uptimeText": "Uptime:",
     "filterDescription": "Apply filters to the current song",
