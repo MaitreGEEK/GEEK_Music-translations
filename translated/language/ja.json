@@ -20,8 +20,6 @@
     "topDescription": "現在のリードボードを返します。",
     "leaderboardEmpty": "The leaderboard is empty. It's possible that no one has used the bot yet.",
     "leaderboardTitle": "グローバルリーダーボード",
-    "lastUpdate": "最終更新日:",
-    "nextUpdate": "次回のアップデート:",
     "statusDescription": "Botに関する技術情報を返します",
     "uptimeText": "稼働時間：",
     "filterDescription": "現在の曲にフィルターを適用する",
