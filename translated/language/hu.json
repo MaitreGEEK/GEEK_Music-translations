@@ -20,8 +20,6 @@
     "topDescription": "Visszaadja a jelenlegi ranglistát",
     "leaderboardEmpty": "The leaderboard is empty. It's possible that no one has used the bot yet.",
     "leaderboardTitle": "Globális Ranglista",
-    "lastUpdate": "Utolsó Frissítés:",
-    "nextUpdate": "Következő Frissítés:",
     "statusDescription": "Returns some technical informations about the bot",
     "uptimeText": "Üzemidő:",
     "filterDescription": "Szűrők alkalmazása a jelenlegi számra",
