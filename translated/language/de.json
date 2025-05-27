@@ -20,8 +20,6 @@
     "topDescription": "Gibt die aktuelle Rangliste zurück",
     "leaderboardEmpty": "The leaderboard is empty. It's possible that no one has used the bot yet.",
     "leaderboardTitle": "Globale Rangliste",
-    "lastUpdate": "Letzte Aktualisierung:",
-    "nextUpdate": "Nächste Aktualisierung:",
     "statusDescription": "Returns some technical informations about the bot",
     "uptimeText": "Laufzeit:",
     "filterDescription": "Filter auf den aktuellen Song anwenden",
