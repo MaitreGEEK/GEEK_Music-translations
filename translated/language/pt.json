@@ -20,8 +20,6 @@
     "topDescription": "Retorna o leaderboard atual",
     "leaderboardEmpty": "The leaderboard is empty. It's possible that no one has used the bot yet.",
     "leaderboardTitle": "Leaderboard global",
-    "lastUpdate": "Última atualização:",
-    "nextUpdate": "Próxima atualização:",
     "statusDescription": "Retorna algumas informações técnicas sobre o bot",
     "uptimeText": "Uptime:",
     "filterDescription": "Aplicar filtros à música atual",
