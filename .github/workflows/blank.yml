@@ -14,8 +14,8 @@ jobs:
       - name: Get current version
         id: get_version
         run: |
-          if [ -f "./languages/version" ]; then
-            CURRENT_VERSION=$(cat ./languages/version)
+          if [ -f "./version" ]; then
+            CURRENT_VERSION=$(cat ./version)
           else
             CURRENT_VERSION=0
           fi
@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ./languages/version
+          git add ./version
           git commit -m "ci: increment translation version to ${{ steps.increment.outputs.new_version }}"
           git push
         env:
