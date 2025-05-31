@@ -1,0 +1,41 @@
+name: Increment Version
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  increment_version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Get current version
+        id: get_version
+        run: |
+          if [ -f "./languages/version" ]; then
+            CURRENT_VERSION=$(cat ./languages/version)
+          else
+            CURRENT_VERSION=0
+          fi
+          echo "current_version=$CURRENT_VERSION" >> $GITHUB_OUTPUT
+
+      - name: Increment version
+        id: increment
+        run: |
+          NEW_VERSION=$(( ${{ steps.get_version.outputs.current_version }} + 1 ))
+          echo "new_version=$NEW_VERSION" >> $GITHUB_OUTPUT
+
+      - name: Update version file
+        run: echo "${{ steps.increment.outputs.new_version }}" > ./languages/version
+
+      - name: Commit and push new version
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ./languages/version
+          git commit -m "ci: increment translation version to ${{ steps.increment.outputs.new_version }}"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
