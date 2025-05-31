@@ -257,7 +257,7 @@
     "emptySongRequest": "İsteğiniz olan şarkı bulunmuyor",
     "playlist-add-multipleDescription": "Aynı anda çalma listenize birden fazla şarkı ekleyin. Şarkı adlarını virgülle ayırın",
     "music-multipleDescription": "Virgülle ayrılmış şarkı başlıkları/bağlantıları  SoundCloud/Spotify/YouTube/Deezer/AppleMusic/başka",
-    "play-multipleDescription": "YouTube/Stream/Spotify/SoundCloud/Deezer/AppleMusic/başkaları üzerinden sıranıza birden fazla şarkı ekleyin",
+    "play-multipleDescription": "YouTube/Stream/Spotify/Deezer/AppleMusic/başkaları üzerinden sıranıza birden fazla şarkı ekleyin",
     "searchingMultipleEntries": "{searchEmoji} {songNumber} girdi aranıyor",
     "multipleSongsFound": "{songNumber} şarkı başarıyla bulundu! Yüklemeye başlanıyor...",
     "multipleSongsAddedToQueue": "Sıraya eklendi",
