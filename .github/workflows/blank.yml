@@ -28,7 +28,7 @@ jobs:
           echo "new_version=$NEW_VERSION" >> $GITHUB_OUTPUT
 
       - name: Update version file
-        run: echo "${{ steps.increment.outputs.new_version }}" > ./languages/version
+        run: echo "${{ steps.increment.outputs.new_version }}" > ./version
 
       - name: Commit and push new version
         run: |
