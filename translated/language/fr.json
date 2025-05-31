@@ -257,7 +257,7 @@
     "emptySongRequest": "Il n'y a pas de piste dans votre requête",
     "playlist-add-multipleDescription": "Ajoute plusieurs pistes à votre playlist à la fois. Séparez-les par une virgule",
     "music-multipleDescription": "Titres ou liens séparés par des virgules de SoundCloud/Spotify/YouTube/Deezer/AppleMusic/autres",
-    "play-multipleDescription": "Ajoute plusieurs chansons à votre liste de lecture depuis YouTube/Liens/Spotify/SoundCloud/Deezer/AppleMusic/autres",
+    "play-multipleDescription": "Ajoute plusieurs pistes à votre liste de lecture depuis YouTube/Liens/Spotify/Deezer/autres",
     "searchingMultipleEntries": "Recherche en cours {searchEmoji} de {songNumber} entrées",
     "multipleSongsFound": "{songNumber} pistes ont été trouvées avec succès ! Chargement en cours...",
     "multipleSongsAddedToQueue": "Ont été ajoutés à la liste de lecture",
