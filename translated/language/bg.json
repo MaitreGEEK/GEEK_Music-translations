@@ -1,8 +1,8 @@
 {
     "helpDescription": "Retourniert eine Liste nutzbarer Befehle",
     "clickToInviteMe": "Drücke hier um mich einzuladen!",
-    "useSlashCommands": "Use Slash Commands:",
-    "inviteDescription": "Returns the bot's invite link",
+    "useSlashCommands": "Verwende \"Slash\" Befehle:",
+    "inviteDescription": "Retourniert den Bot-Einladelink",
     "loveUsingOurBot": "Do you enjoy GEEK Music? [Add it]({invite}) to your own server!",
     "donateDescription": "Returns the donation link to support the bot's maintainment",
     "donateSubscribe": "You love using GEEK Music? Consider [donating](https://donate.maitregeek.eu)!",
