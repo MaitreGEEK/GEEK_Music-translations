@@ -239,7 +239,7 @@
     "numberSongs": "{number} 曲",
     "customInstance": "### 🎉 NEW CUSTOM INSTANCE TIERS AVAILABLE! 🎉\n🚀 **Tired of lag?** Get your own **dedicated GEEK Music bot** with ultra-fast responses, custom branding, and premium performance!\n\n**💎 Starting at just $3/month! 💎**\nSatisfied or your money back ;]\n\n✨ **Contact maitregeek** by dm or send a **/ticket** to get started!",
     "allQueueSkipped": "Seems like the song(s) you tried failed...",
-    "youtubeDown": "**YouTube is down or the track you tried didn’t work.**\n\n⚠️ If YouTube is down, Spotify, Deezer, and Tidal won’t work either. See [this guide]({documentationLink}) for details.\n\n✅ If at least one instance is 🟢 on [the status page]({statusLink}), the system *should* work.",
+    "youtubeDown": "**The YouTube module is currently not working properly**\n\n🔁 This usually fixes itself — just try again later\n\n📄 If it keeps failing, follow [this guide]({documentationLink}) to use another source\n\n⚠️ Tidal, Deezer, and Spotify also depend on this module, so they won’t work either for now\n\n✅ If at least one instance is 🟢 on [the status page]({statusLink}), the system *should* be working",
     "feedbackAd": "### 🎵 ボットを改善したいですか？ \nフィードバックを共有してください！ ✨ \n\n数分で行うことができます: [Click here](<https://l.maitregeek.eu/gm-feedback>)",
     "nullTime": "Impossible to predict",
     "nextPlayDescription": "Whether this song should be played immediately after the current one or not",
