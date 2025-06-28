@@ -261,7 +261,6 @@
     "searchingMultipleEntries": "Recherche en cours {searchEmoji} de {songNumber} entrées",
     "multipleSongsFound": "{songNumber} pistes ont été trouvées avec succès ! Chargement en cours...",
     "multipleSongsAddedToQueue": "Ont été ajoutés à la liste de lecture",
-    "soundcloudUnavailable": "Le propriétaire de ce bot a désactivé Soundcloud, vous ne pouvez pas jouer de pistes depuis Soundcloud",
     "404Spotify": "Spotify n'a rien trouvé. S'il s'agit d'une playlist faite par Spotify (comme les Daily Mix, Découvertes de la Semaine ou les Top), nous ne pouvons pas y accéder. Pour les écouter quand même, ajoutez les pistes à l'une de vos playlists publiques et réessayez avec leur lien",
     "songFileEmpty": "Le lien de la piste est vide ou invalide. Veuillez vérifier s'il est correct",
     "playlist-exportDescription": "Exporter votre playlist dans un fichier texte ou JSON",
@@ -293,5 +292,8 @@
     "invalidJsonFormat": "Le format du fichier JSON est invalide",
     "ticketSongLabel": "Entrez la piste que vous avez essayé",
     "ticketSongPlaceholder": "Exemple : https://youtu.be/dQw4w9WgXcQ",
-    "appleMusicError": "Impossible de charger la piste depuis Apple Music. Le lien est peut-être invalide ou le service de téléchargement a renvoyé un résultat vide. Veuillez vérifier et réessayer"
+    "appleMusicError": "Impossible de charger la piste depuis Apple Music. Le lien est peut-être invalide ou le service de téléchargement a renvoyé un résultat vide. Veuillez vérifier et réessayer",
+    "spotifyError": "We couldn't fetch the track from Spotify. This might happen if the URL is incorrect or the track is unavailable. Please double-check the URL. Sometimes, trying again can help, as it might be a temporary issue. If the problem continues, please contact us for assistance",
+    "soundcloudError": "Unable to fetch the SoundCloud track. This could be due to an incorrect URL, the track being private, or a temporary service issue. Please check the URL and try again later. If the problem persists, please contact us for assistance",
+    "tidalError": "Something went wrong while getting the Tidal song, try again later"
 }
