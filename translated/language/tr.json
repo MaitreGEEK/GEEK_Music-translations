@@ -261,7 +261,6 @@
     "searchingMultipleEntries": "{searchEmoji} {songNumber} girdi aranıyor",
     "multipleSongsFound": "{songNumber} şarkı başarıyla bulundu! Yüklemeye başlanıyor...",
     "multipleSongsAddedToQueue": "Sıraya eklendi",
-    "soundcloudUnavailable": "The owner of this bot deactivated Soundcloud, you can't play songs from Sondcloud",
     "404Spotify": "Spotify didn't find anything. If it's a playlist made by Spotify (like Daily Mix, Discover Weekly, or Top Songs), we can't access it. To use it, add the songs to one of your own public playlists and try again with that link",
     "songFileEmpty": "The song link is empty or invalid. Please check if the link is correct",
     "playlist-exportDescription": "Export your playlist to a text file or JSON",
@@ -293,5 +292,8 @@
     "invalidJsonFormat": "The JSON file format is invalid",
     "ticketSongLabel": "Denediğiniz şarkıyı girin",
     "ticketSongPlaceholder": "Örnek: https://youtu.be/dQw4w9WgXcQ",
-    "appleMusicError": "Couldn’t load the Apple Music song. The link might be invalid, or the download service returned an empty result. Please check and retry"
+    "appleMusicError": "Couldn’t load the Apple Music song. The link might be invalid, or the download service returned an empty result. Please check and retry",
+    "spotifyError": "We couldn't fetch the track from Spotify. This might happen if the URL is incorrect or the track is unavailable. Please double-check the URL. Sometimes, trying again can help, as it might be a temporary issue. If the problem continues, please contact us for assistance",
+    "soundcloudError": "Unable to fetch the SoundCloud track. This could be due to an incorrect URL, the track being private, or a temporary service issue. Please check the URL and try again later. If the problem persists, please contact us for assistance",
+    "tidalError": "Something went wrong while getting the Tidal song, try again later"
 }
