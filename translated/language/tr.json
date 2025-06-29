@@ -136,7 +136,7 @@
     "songAddedToPlaylist": "Çalma listenize {song} eklendi",
     "playlist-moveDescription": "Çalma listenizde bir şarkının yerini değiştirin",
     "playlistMoveExample": "Kullanım: /çalmalistesi-yerleştir buradan:<Playlist Number> buraya:<Other Position>",
-    "playlistEmpty": "Çalma listesi boş",
+    "playlistEmpty": "This playlist is empty. If you tried to play an external playlist (e.g. YouTube or Spotify), use /play music:<link> instead of /playlist play",
     "moveToLastPlaylist": "{song} şarkısını çalma listesinde son konumuna ekledin",
     "playlist-playDescription": "Bir çalma listesi oynat",
     "userDescription": "Kullanıcı seç (Boşsa siz olacaksınız)",
