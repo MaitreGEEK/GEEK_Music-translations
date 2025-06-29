@@ -136,7 +136,7 @@
     "songAddedToPlaylist": "{song} がプレイリストに追加されました",
     "playlist-moveDescription": "プレイリスト内の曲を移動",
     "playlistMoveExample": "使用法: /playlist-move positionfrom:<Playlist Number> positionto:<Other Position>",
-    "playlistEmpty": "プレイリストが空です",
+    "playlistEmpty": "This playlist is empty. If you tried to play an external playlist (e.g. YouTube or Spotify), use /play music:<link> instead of /playlist play",
     "moveToLastPlaylist": "{song} をプレイリストの最後の位置に移動しました",
     "playlist-playDescription": "プレイリストを再生",
     "userDescription": "ユーザーを選択します（空の場合はあなたになります）",
@@ -261,7 +261,6 @@
     "searchingMultipleEntries": "Searching {searchEmoji} {songNumber} entries",
     "multipleSongsFound": "Successfully found {songNumber} songs! Starting to load them...",
     "multipleSongsAddedToQueue": "Have been added to the queue",
-    "soundcloudUnavailable": "The owner of this bot deactivated Soundcloud, you can't play songs from Sondcloud",
     "404Spotify": "Spotify didn't find anything. If it's a playlist made by Spotify (like Daily Mix, Discover Weekly, or Top Songs), we can't access it. To use it, add the songs to one of your own public playlists and try again with that link",
     "songFileEmpty": "The song link is empty or invalid. Please check if the link is correct",
     "playlist-exportDescription": "Export your playlist to a text file or JSON",
@@ -293,5 +292,8 @@
     "invalidJsonFormat": "The JSON file format is invalid",
     "ticketSongLabel": "Enter the song you tried",
     "ticketSongPlaceholder": "Example: https://youtu.be/dQw4w9WgXcQ",
-    "appleMusicError": "Couldn’t load the Apple Music song. The link might be invalid, or the download service returned an empty result. Please check and retry"
+    "appleMusicError": "Couldn’t load the Apple Music song. The link might be invalid, or the download service returned an empty result. Please check and retry",
+    "spotifyError": "We couldn't fetch the track from Spotify. This might happen if the URL is incorrect or the track is unavailable. Please double-check the URL. Sometimes, trying again can help, as it might be a temporary issue. If the problem continues, please contact us for assistance",
+    "soundcloudError": "Unable to fetch the SoundCloud track. This could be due to an incorrect URL, the track being private, or a temporary service issue. Please check the URL and try again later. If the problem persists, please contact us for assistance",
+    "tidalError": "Something went wrong while getting the Tidal song, try again later"
 }
