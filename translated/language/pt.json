@@ -136,7 +136,7 @@
     "songAddedToPlaylist": "{song} foi adicionado a sua playlist",
     "playlist-moveDescription": "Mover uma música para sua playlist",
     "playlistMoveExample": "Uso: /playlist-move positionfrom:<Playlist Number> positionto:<Other Position>",
-    "playlistEmpty": "A playlist está vazia",
+    "playlistEmpty": "This playlist is empty. If you tried to play an external playlist (e.g. YouTube or Spotify), use /play music:<link> instead of /playlist play",
     "moveToLastPlaylist": "Você moveu {song} para a última posição da playlist",
     "playlist-playDescription": "Reproduzir uma playlist",
     "userDescription": "Escolha um usuário (se estiver vazio será você)",
