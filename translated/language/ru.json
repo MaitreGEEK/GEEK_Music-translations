@@ -136,7 +136,7 @@
     "songAddedToPlaylist": "{song} была добавлена в Ваш плейлист",
     "playlist-moveDescription": "Перемещает песню в Ваш плейлист",
     "playlistMoveExample": "Использование: /плейлист-переместить старая-позиция:<Playlist Number> новая-позиция:<Other Position>",
-    "playlistEmpty": "Плейлист пуст",
+    "playlistEmpty": "This playlist is empty. If you tried to play an external playlist (e.g. YouTube or Spotify), use /play music:<link> instead of /playlist play",
     "moveToLastPlaylist": "Вы переместили {song} на последнюю позицию в плейлисте",
     "playlist-playDescription": "Воспроизводит плейлист",
     "userDescription": "Выберите пользователя (если не указан, бот выберет Вас)",
