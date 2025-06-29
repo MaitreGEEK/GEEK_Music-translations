@@ -296,5 +296,5 @@
     "spotifyError": "Nous n'avons pas pu récupérer la piste de Spotify. Cela peut se produire si l'URL est incorrecte ou si la piste n'est pas disponible. Veuillez vérifier l'URL. Parfois, essayer à nouveau peut aider car il peut s'agir d'un problème temporaire. Si le problème persiste, veuillez nous contacter pour obtenir de l'aide",
     "soundcloudError": "Impossible de récupérer la piste SoundCloud. Cela peut être dû à une URL incorrecte, la piste est privée ou à un problème de service temporaire. Veuillez vérifier l'URL et réessayer plus tard. Si le problème persiste, veuillez nous contacter pour obtenir de l'aide",
     "tidalError": "Une erreur s'est produite lors de l'obtention de la piste Tidal, réessayez plus tard",
-    "soundcloudPaid": "This song is locked behind SoundCloud’s paywall. The bot can’t play it. Pick another song"
+    "soundcloudPaid": "Cette piste est bloqué derrière l'abonnnement payant de SoundCloud. Le bot ne peut pas la jouer. Choisissez-en une autre"
 }
