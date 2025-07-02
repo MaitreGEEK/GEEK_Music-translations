@@ -81,7 +81,7 @@
     "queueDescription": "Display music queue",
     "musicQueue": "Music Queue",
     "radioDescription": "Play a Radiostation",
-    "radiostationDescription": "Choose a radio",
+    "radiostationDescription": "Type the name of a radio station to search for one",
     "radioExample": "Usage: /radio radiostation:<Radio>",
     "radioNotValid": "Not a valid radio station",
     "noRadio": "It seems I couldn't find any radio stations while searching for '{query}'...",
