@@ -44,7 +44,7 @@
     "searching": "Pesquisando",
     "lyricsText": "Letra de {song}",
     "noLyrics": "Não foram encontradas letras para {song}",
-    "lyricsExample": "",
+    "lyricsExample": "Usage: /lyrics title:<Song Title> or leave it empty to search for the current song",
     "moveDescription": "Trocar a posição de uma música na fila",
     "positionfromDescription": "A posição da música que você deseja mover",
     "positiontoDescription": "A posição da música para qual você deseja mover",
