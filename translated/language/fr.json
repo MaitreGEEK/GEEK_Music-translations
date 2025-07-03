@@ -270,7 +270,7 @@
     "fileEmpty": "Le fichier est vide ou ne contient aucune piste",
     "invalidJsonFormat": "Le format du fichier JSON est invalide",
     "appleMusicError": "Impossible de charger la piste depuis Apple Music. Le lien est peut-être invalide ou le service de téléchargement a renvoyé un résultat vide. Veuillez vérifier et réessayer",
-    "autoplayDescription": "Joue un flux infini de pistes liées à votre entrée qui se met à jour automatiquement après la fin de chaque piste",
+    "autoplayDescription": "Joue un flux de pistes liées à votre entrée qui se met à jour après la fin de chaque piste",
     "couldNotJoinChannel": "Le bot n'a pas pu rejoindre votre salon vocal à temps. Assurez-vous qu'il ait la permission de se connecter et de parler, puis réessayez. Si le problème persiste, essayez de vous déplacer sur un autre vocal ou de réinviter le bot",
     "noSimilareFound": "Aucune piste similaire n'a été trouvée pour celle que vous avez entrée",
     "AMplEmpty": "La playlist Apple Music que vous avez entré est vide",
