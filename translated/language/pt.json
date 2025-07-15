@@ -3,7 +3,7 @@
     "clickToInviteMe": "Clique aqui para me enviar!",
     "useSlashCommands": "Usar Slash Commands:",
     "inviteDescription": "Retorna o link de convite do bot",
-    "inviteTitle": "",
+    "inviteTitle": "Invite Link",
     "inviteTxt": "Do you enjoy GEEK Music? [Add it]({url}) to your own server!",
     "donateDescription": "Retorna o link para fazer doações para a manutenção do bot",
     "donateTxt": "You love using GEEK Music? Consider [donating]({url})!",
