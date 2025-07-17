@@ -193,7 +193,7 @@
     "serverCountdown": "Phòng chat:",
     "activeusersCountdown": "Người dùng thường hoạt động:",
     "problemTranslation": "Bản dịch có vấn đề sao? Vậy hãy phụ một tay biên dịch bot nhé!",
-    "giveMoney": "Bạn thích GEEK Music rồi và muốn bày tỏ tình cảm với mình? Vậy hãy quyên góp ủng hộ duy trì mình đi!",
+    "giveMoney": "",
     "userNotFound": "Không thể tìm thấy người dùng này",
     "songFound": "Đã tìm ra bài nhạc! Đang tải...",
     "songErrorDuringSkipped": "Có lỗi xảy ra trong lúc phát bài nhạc này, nên nó đã bị bỏ qua nhanh",
