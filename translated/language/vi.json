@@ -303,7 +303,7 @@
     "disableMessage": "`{user}` vô hiệu hóa thông báo **{type}**",
     "enableMessage": "`{user}` kích hoạt thông báo **{type}**",
     "endmessageDescription": "Xóa thông báo hiện ra khi hàng chờ phát kết thúc",
-    "silentmessageDescription": "Makes the bot send silent messages instead of normal ones",
-    "disableWarnAudio": "Click to ignore the message for the next times",
-    "disableEndmessage": "Click here to disable this message"
+    "silentmessageDescription": "Để bot gửi tin nhắn dạng im lặng thay vì bình thường",
+    "disableWarnAudio": "Nhấn để bỏ qua và không nhận tiếp thông báo này về sau",
+    "disableEndmessage": "Nhấn để tắt thông báo này"
 }
