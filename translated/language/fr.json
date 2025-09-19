@@ -287,7 +287,7 @@
     "volumeUnmutedText": "{user} **a rendu la parole** au bot, le volume est à {volume}%",
     "muteDescription": "Couper ou réactiver le son de la musique",
     "currentVolume": "Le volume actuel est {volume}%",
-    "defaultDescription": "Modifier les paramètres du bot pour l'utilisateur, le serveur ou les deux (valeurs par défaut incluses)",
+    "defaultDescription": "Modifier les paramètres du bot (utilisateur, serveur ou global, défauts inclus)",
     "dserverDescription": "Modifier paramètres serveur (autorisation gérer les messages requise)",
     "duserDescription": "Activer pour modifier les paramètres pour vous-même (par défaut: Vrai)",
     "defaultInvalidCommand": "Cette commande de paramètre n'existe pas",
