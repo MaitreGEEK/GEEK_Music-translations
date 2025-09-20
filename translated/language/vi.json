@@ -178,6 +178,7 @@
     "langselectDescription": "Chọn ngôn ngữ",
     "languageTitle": "Đã đổi ngôn ngữ",
     "languageText": "Bạn đã đổi thành công ngôn ngữ bot sang **{new_language}**",
+    "languageTextServer": "Server's language has successfully been changed to **{new_language}**",
     "playlistProblemOccured": "Bot gặp lỗi khi lấy danh sách phát. Nếu sự cố vẫn tiếp diễn, hãy báo lỗi bằng cách tạo phiếu yêu cầu hỗ trợ nhé.",
     "searchPlatformDescription": "Nền tảng bạn muốn dùng để tìm bài hát",
     "searchError": "Có lỗi phát sinh khi cố gắng phát bài nhạc này. Thử lại lần nữa nhé",
@@ -305,5 +306,6 @@
     "endmessageDescription": "Xóa thông báo hiện ra khi hàng chờ phát kết thúc",
     "silentmessageDescription": "Để bot gửi tin nhắn dạng im lặng thay vì bình thường",
     "disableWarnAudio": "Nhấn để bỏ qua và không nhận tiếp thông báo này về sau",
-    "disableEndmessage": "Nhấn để tắt thông báo này"
+    "disableEndmessage": "Nhấn để tắt thông báo này",
+    "contestLaunch": "🎨 **GEEK Music Contest!**\nCreate the next profile picture — digital, GIF, paper, anything! ✨\n\n**Reward:** Nitro boost or $10.\n📂 Resources: [Drive](https://drive.google.com/drive/folders/1yFM46tkDGEM8pM8xuE4mwmLM_aGrl9RD)\n\n**Rules:** Have fun, character must have appearance, AI allowed (may reduce points).\n\n📅 **Deadline:** Oct 1\n📩 Submit in [#contest-submissions](https://discord.com/channels/589351663530410004/1416556625141039126) or DM **maitregeek**"
 }

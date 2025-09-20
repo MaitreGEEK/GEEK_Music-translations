@@ -178,6 +178,7 @@
     "langselectDescription": "Выберите язык",
     "languageTitle": "Язык изменен",
     "languageText": "Your language has been successfully changed to **{new_language}**",
+    "languageTextServer": "Server's language has successfully been changed to **{new_language}**",
     "playlistProblemOccured": "An issue occurred while retrieving the playlist. It seems there's a problem with the bot. Feel free to create a ticket to inform us about it.",
     "searchPlatformDescription": "Платформа для поиска песни",
     "searchError": "Произошла ошибка при попытке воспроизведения песни. Пожалуйста, попробуйте снова",
@@ -305,5 +306,6 @@
     "endmessageDescription": "Remove the message displaying at the end of playing the queue",
     "silentmessageDescription": "Makes the bot send silent messages instead of normal ones",
     "disableWarnAudio": "Click to ignore the message for the next times",
-    "disableEndmessage": "Click here to disable this message"
+    "disableEndmessage": "Click here to disable this message",
+    "contestLaunch": "🎨 **GEEK Music Contest!**\nCreate the next profile picture — digital, GIF, paper, anything! ✨\n\n**Reward:** Nitro boost or $10.\n📂 Resources: [Drive](https://drive.google.com/drive/folders/1yFM46tkDGEM8pM8xuE4mwmLM_aGrl9RD)\n\n**Rules:** Have fun, character must have appearance, AI allowed (may reduce points).\n\n📅 **Deadline:** Oct 1\n📩 Submit in [#contest-submissions](https://discord.com/channels/589351663530410004/1416556625141039126) or DM **maitregeek**"
 }
