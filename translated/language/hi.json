@@ -307,5 +307,6 @@
     "silentmessageDescription": "Makes the bot send silent messages instead of normal ones",
     "disableWarnAudio": "Click to ignore the message for the next times",
     "disableEndmessage": "Click here to disable this message",
+    "cannotJoinNoGuild": "The bot couldn't join the channel, apparently, you're not in a Guild, please use this application as bot in a Guild (You need to add him to the server)",
     "contestLaunch": "🎨 **GEEK Music Contest!**\nCreate the next profile picture — digital, GIF, paper, anything! ✨\n\n**Reward:** Nitro boost or $10.\n📂 Resources: [Drive](https://drive.google.com/drive/folders/1yFM46tkDGEM8pM8xuE4mwmLM_aGrl9RD)\n\n**Rules:** Have fun, character must have appearance, AI allowed (may reduce points).\n\n📅 **Deadline:** Oct 1\n📩 Submit in [#contest-submissions](https://discord.com/channels/589351663530410004/1416556625141039126) or DM **maitregeek**"
 }
