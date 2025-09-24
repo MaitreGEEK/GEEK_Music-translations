@@ -178,7 +178,7 @@
     "langselectDescription": "Sélectionnez une langue",
     "languageTitle": "Langue modifiée",
     "languageText": "Votre langue a été changée avec succès en **{new_language}**",
-    "languageTextServer": "Server's language has successfully been changed to **{new_language}**",
+    "languageTextServer": "La langue du serveur a été changée avec succès en **{new_language}**",
     "playlistProblemOccured": "Un problème est survenu lors de la récupération de la playlist. Il semble qu'il y ait un problème avec le bot. N'hésitez pas à créer un ticket pour nous en informer.",
     "searchPlatformDescription": "La plateforme où vous voulez rechercher un titre",
     "searchError": "Une erreur s'est produite lors de la tentative de lecture de la piste. Veuillez réessayer",
@@ -307,6 +307,6 @@
     "silentmessageDescription": "Fait envoyer des messages silencieux au lieu des messages normaux",
     "disableWarnAudio": "Cliquez pour ignorer ce message",
     "disableEndmessage": "Cliquez ici pour désactiver ce message",
-    "cannotJoinNoGuild": "The bot couldn't join the channel, apparently, you're not in a Guild, please use this application as bot in a Guild (You need to add him to the server)",
-    "contestLaunch": "🎨 **GEEK Music Contest!**\nCreate the next profile picture — digital, GIF, paper, anything! ✨\n\n**Reward:** Nitro boost or $10.\n📂 Resources: [Drive](https://drive.google.com/drive/folders/1yFM46tkDGEM8pM8xuE4mwmLM_aGrl9RD)\n\n**Rules:** Have fun, character must have appearance, AI allowed (may reduce points).\n\n📅 **Deadline:** Oct 1\n📩 Submit in [#contest-submissions](https://discord.com/channels/589351663530410004/1416556625141039126) or DM **maitregeek**"
+    "cannotJoinNoGuild": "Le bot n'a pas pu rejoindre le vocal, apparemment vous n'êtes pas dans un serveur, veuillez utiliser cette application comme bot dans un Serveur (Vous devez l'ajouter au serveur)",
+    "contestLaunch": "🎨 **Concours GEEK Music !**\nCréez la prochaine photo de profil du bot — numérique, GIF, papier, n'importe quoi! ✨\n\n**Récompense :** Nitro boost ou 10 $.\n📂 Ressources : [Drive](https://drive.google.com/drive/folders/1yFM46tkDGEM8pM8xuE4mwmLM_aGrl9RD)\n\n**Règles :** Amusez-vous, le personnage doit avoir une apparence, l'IA est autorisée (peut réduire les points)\n\n📅 **Date limite :** 1er Octobre\n📩 Envoie dans [#contest-submissions](https://discord.com/channels/589351663530410004/1416556625141039126) ou MP **maitregeek**"
 }
