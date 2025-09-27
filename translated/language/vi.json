@@ -178,7 +178,7 @@
     "langselectDescription": "Chọn ngôn ngữ",
     "languageTitle": "Đã đổi ngôn ngữ",
     "languageText": "Bạn đã đổi thành công ngôn ngữ bot sang **{new_language}**",
-    "languageTextServer": "Server's language has successfully been changed to **{new_language}**",
+    "languageTextServer": "Ngôn ngữ bot trong phòng chat đã được đổi sang **{new_language}**",
     "playlistProblemOccured": "Bot gặp lỗi khi lấy danh sách phát. Nếu sự cố vẫn tiếp diễn, hãy báo lỗi bằng cách tạo phiếu yêu cầu hỗ trợ nhé.",
     "searchPlatformDescription": "Nền tảng bạn muốn dùng để tìm bài hát",
     "searchError": "Có lỗi phát sinh khi cố gắng phát bài nhạc này. Thử lại lần nữa nhé",
@@ -307,6 +307,6 @@
     "silentmessageDescription": "Để bot gửi tin nhắn dạng im lặng thay vì bình thường",
     "disableWarnAudio": "Nhấn để bỏ qua và không nhận tiếp thông báo này về sau",
     "disableEndmessage": "Nhấn để tắt thông báo này",
-    "cannotJoinNoGuild": "The bot couldn't join the channel, apparently, you're not in a Guild, please use this application as bot in a Guild (You need to add him to the server)",
-    "contestLaunch": "🎨 **GEEK Music Contest!**\nCreate the next profile picture — digital, GIF, paper, anything! ✨\n\n**Reward:** Nitro boost or $10.\n📂 Resources: [Drive](https://drive.google.com/drive/folders/1yFM46tkDGEM8pM8xuE4mwmLM_aGrl9RD)\n\n**Rules:** Have fun, character must have appearance, AI allowed (may reduce points).\n\n📅 **Deadline:** Oct 1\n📩 Submit in [#contest-submissions](https://discord.com/channels/589351663530410004/1416556625141039126) or DM **maitregeek**"
+    "cannotJoinNoGuild": "Bot không thể vào kênh vì hình như bạn đâu phải người trong Bang hội. Hãy dùng ứng dụng này như bot trong Bang hội (sẽ cần mời bot vào phòng chat)",
+    "contestLaunch": "🎨 **Cuộc thi GEEK Music!**\nThiết kế hình đại diện mới — vẽ web, GIF, vẽ tay hay gì cũng được! ✨\n\n**Thưởng:** Nitro boost hoặc $10.\n📂 Tài nguyên: [Drive](https://drive.google.com/drive/folders/1yFM46tkDGEM8pM8xuE4mwmLM_aGrl9RD)\n\n**Luật:** Làm cho vui, nhân vật phải có ngoại hình rõ ràng, được phép dùng AI (nhưng có thể bị trừ điểm).\n\n📅 **Hạn:** 1 tháng Mười\n📩 Nộp tại [#contest-submissions](https://discord.com/channels/589351663530410004/1416556625141039126) hoặc nhắn tin riêng cho **maitregeek**"
 }
