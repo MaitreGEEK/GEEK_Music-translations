@@ -1,6 +1,6 @@
 {
     "helpDescription": "Retorna uma lista de comandos usáveis com o bot",
-    "clickToInviteMe": "Clique aqui para me enviar!",
+    "clickToInviteMe": "Clique aqui para me convidar!",
     "useSlashCommands": "Usar Slash Commands:",
     "inviteDescription": "Retorna o link de convite do bot",
     "inviteTitle": "Link de Convite",
@@ -37,7 +37,7 @@
     "leftChannel": "Eu deixei o canal. Vejo você novamente!",
     "leaveDescription": "Sair do canal de voz atual",
     "loopDescription": "Alternar o loop das músicas",
-    "loopEnabled": "Loop agora está ativado",
+    "loopEnabled": "Loop foi ativado",
     "loopDisabled": "Loop foi desativado",
     "lyricsDescription": "Obter a letra da música atual",
     "lyricsTitle": "Letra",
