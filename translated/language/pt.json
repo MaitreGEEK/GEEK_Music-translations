@@ -33,7 +33,7 @@
     "noQueue": "Nada está tocando agora",
     "sameChannel": "Você deve estar no mesmo Canal de Voz",
     "applying": "Aplicando:",
-    "notInChannel": "Não está em um Canal de Voz",
+    "notInChannel": "Not in a voice channel",
     "leftChannel": "Eu deixei o canal. Vejo você novamente!",
     "leaveDescription": "Sair do canal de voz atual",
     "loopDescription": "Alternar o loop das músicas",
