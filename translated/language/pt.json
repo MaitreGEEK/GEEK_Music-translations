@@ -33,7 +33,7 @@
     "noQueue": "Nada está tocando agora",
     "sameChannel": "Você deve estar no mesmo Canal de Voz",
     "applying": "Aplicando:",
-    "notInChannel": "Não está em um Canal de Voz",
+    "notInChannel": "Not in a voice channel",
     "leftChannel": "Eu deixei o canal. Vejo você novamente!",
     "leaveDescription": "Sair do canal de voz atual",
     "loopDescription": "Alternar o loop das músicas",
@@ -308,5 +308,6 @@
     "disableWarnAudio": "Clique para ignorar a mensagem das próximas vezes",
     "disableEndmessage": "Clique aqui para ocultar essa mensagem",
     "cannotJoinNoGuild": "O bot não pôde entrar no canal. Parece que você não está em uma Guilda. Por favor, use este aplicativo como bot em uma Guilda (você precisa adicioná-lo ao servidor)",
-    "contestLaunch": "🎨 **GEEK Music Contest!**\nCrie a próxima foto de perfil — digital, GIF, papel, qualquer coisa! ✨\n\n**Recompensa:** Aumento de Nitro ou $10.\n📂 Recursos: [Drive](https://drive.google.com/drive/folders/1yFM46tkDGEM8pM8xuE4mwmLM_aGrl9RD)\n\n**Regras:** Divirta-se, personagem deve ter aparência, AI permitido (pode reduzir pontos).\n\n📅 **Deadline:** Out 1\n📩 Submeter em [#contest-submissions](https://discord.com/channels/589351663530410004/1416556625141039126) ou DM **maitregeek**"
+    "contestLaunch": "🎨 **GEEK Music Contest!**\nCrie a próxima foto de perfil — digital, GIF, papel, qualquer coisa! ✨\n\n**Recompensa:** Aumento de Nitro ou $10.\n📂 Recursos: [Drive](https://drive.google.com/drive/folders/1yFM46tkDGEM8pM8xuE4mwmLM_aGrl9RD)\n\n**Regras:** Divirta-se, personagem deve ter aparência, AI permitido (pode reduzir pontos).\n\n📅 **Deadline:** Out 1\n📩 Submeter em [#contest-submissions](https://discord.com/channels/589351663530410004/1416556625141039126) ou DM **maitregeek**",
+    "documentationLink": "Documentation link"
 }
