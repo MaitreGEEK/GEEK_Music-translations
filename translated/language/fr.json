@@ -308,6 +308,5 @@
     "disableWarnAudio": "Cliquez pour ignorer ce message",
     "disableEndmessage": "Cliquez ici pour désactiver ce message",
     "cannotJoinNoGuild": "Le bot n'a pas pu rejoindre le vocal, apparemment vous n'êtes pas dans un serveur, veuillez utiliser cette application comme bot dans un Serveur (Vous devez l'ajouter au serveur)",
-    "contestLaunch": "🎨 **Concours GEEK Music !**\nCréez la prochaine photo de profil du bot — numérique, GIF, papier, n'importe quoi! ✨\n\n**Récompense :** Nitro boost ou 10 $.\n📂 Ressources : [Drive](https://drive.google.com/drive/folders/1yFM46tkDGEM8pM8xuE4mwmLM_aGrl9RD)\n\n**Règles :** Amusez-vous, le personnage doit avoir une apparence, l'IA est autorisée (peut réduire les points)\n\n📅 **Date limite :** 16 Octobre\n📩 Envoie dans [#contest-submissions](https://discord.com/channels/589351663530410004/1416556625141039126) ou MP **maitregeek**",
     "documentationLink": "Documentation link"
 }
