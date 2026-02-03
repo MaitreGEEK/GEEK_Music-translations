@@ -308,5 +308,5 @@
     "disableWarnAudio": "Clique para ignorar a mensagem das próximas vezes",
     "disableEndmessage": "Clique aqui para ocultar essa mensagem",
     "cannotJoinNoGuild": "O bot não pôde entrar no canal. Parece que você não está em uma Guilda. Por favor, use este aplicativo como bot em uma Guilda (você precisa adicioná-lo ao servidor)",
-    "documentationLink": "Documentation link"
+    "documentationLink": "Link documentação"
 }
