@@ -227,7 +227,6 @@
 	"musicRequestTitle": "Añadir una canción",
 	"musicRequestTitleLabel": "Título de la canción o URL",
 	"musicRequestTitlePlaceholder": "Escriba el título de la canción o su URL",
-	"musicProfile": "Perfil de música",
 	"songErrorSkippedWithName": "Ocurrió un error mientras {song} cargaba, así que se ha omitido",
 	"footer": "alojado en: now-heberg.com y m336_",
 	"creditsTxt": "La lista de todos los colaboradores de este proyecto está disponible [aquí]({link})",
