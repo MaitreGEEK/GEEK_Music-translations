@@ -227,7 +227,6 @@
 	"musicRequestTitle": "Добавить песню",
 	"musicRequestTitleLabel": "Название/ссылка на песню",
 	"musicRequestTitlePlaceholder": "Введите название или ссылку на песню",
-	"musicProfile": "Музыкальный профиль",
 	"songErrorSkippedWithName": "Возникла ошибка при загрузке {song}, так что она была пропущена",
 	"footer": "хост: now-heberg.com и m336_",
 	"creditsTxt": "Список всех контрибьюторов проекта доступен [здесь]({link})",
