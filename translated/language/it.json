@@ -227,7 +227,6 @@
 	"musicRequestTitle": "Add a song",
 	"musicRequestTitleLabel": "Song Title or URL",
 	"musicRequestTitlePlaceholder": "Enter the song Title or its URL",
-	"musicProfile": "Music Profile",
 	"songErrorSkippedWithName": "An error happened while loading {song} so it was skipped",
 	"footer": "host by: now-heberg.com and m336_",
 	"creditsTxt": "List of all contributors to this project is available [here]({link})",
