@@ -227,7 +227,6 @@
 	"musicRequestTitle": "Ajouter une piste",
 	"musicRequestTitleLabel": "Titre de la musique ou lien",
 	"musicRequestTitlePlaceholder": "Entrez le titre de la musique ou son lien",
-	"musicProfile": "Profil GEEK Music",
 	"songErrorSkippedWithName": "Une erreur s'est produite lors du chargement de {song}, elle a donc été passée",
 	"footer": "hébergé par : now-heberg.com et m336_",
 	"creditsTxt": "La liste de tous les contributeurs est disponible [ici]({url})",
