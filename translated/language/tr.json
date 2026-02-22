@@ -227,7 +227,6 @@
 	"musicRequestTitle": "\"Bir şarkı ekle\"",
 	"musicRequestTitleLabel": "\"Şarkı Başlığı veya URL\"",
 	"musicRequestTitlePlaceholder": "\"Şarkının başlığını veya URL'sini girin.\"",
-	"musicProfile": "\"Müzik Profili\"",
 	"songErrorSkippedWithName": "\"{song} yüklenirken bir hata oluştu, bu yüzden atlandı.\"",
 	"footer": "\"Host: now-heberg.com ve m336_\"",
 	"creditsTxt": "\"Bu projeye katkıda bulunanların tam listesine [buradan]({link}) ulaşabilirsiniz.\"",
