@@ -227,7 +227,6 @@
 	"musicRequestTitle": "新增歌曲",
 	"musicRequestTitleLabel": "歌曲名或URL",
 	"musicRequestTitlePlaceholder": "輸入歌曲名稱或其URL",
-	"musicProfile": "音樂檔案",
 	"songErrorSkippedWithName": "加載 {song} 時發生錯誤，因此已跳過該曲目",
 	"footer": "主機由：now-heberg.com 與 m336_ 提供",
 	"creditsTxt": "本項目所有貢獻者名單請參閱[此處]({url})",
