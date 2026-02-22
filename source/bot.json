@@ -35,7 +35,7 @@
 	"surroundingDescription": "Simulates a surround sound effect",
 	"pulsatorDescription": "Pulsates the audio from left to right",
 	"subBoostDescription": "Boosts the sub-bass frequencies",
-	"listDescription": "Show the effect list and their descriptions",
+	"effectlistDescription": "Show the effect list and their descriptions",
 	"chorusDescription": "Adds a chorus effect to the audio",
 	"karaokeDescription": "Reduces the vocal frequencies for a karaoke effect",
 	"sofaDescription": "Simulates a listening environment using SOFA convolution",
