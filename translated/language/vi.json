@@ -227,7 +227,6 @@
 	"musicRequestTitle": "Thêm một bài nhạc",
 	"musicRequestTitleLabel": "Tên bài nhạc hoặc địa chỉ url bài nhạc",
 	"musicRequestTitlePlaceholder": "Nhập tên bài nhạc hoặc địa chỉ url bài nhạc",
-	"musicProfile": "Thông tin nhạc",
 	"songErrorSkippedWithName": "Có lỗi xảy ra trong lúc tải bài {song} nên nó đã bị bỏ qua nhanh",
 	"footer": "máy chủ: now-heberg.com và m336_",
 	"creditsTxt": "Có thể xem danh sách đầy đủ cộng tác viên của dự án [ở đây]({url})",
